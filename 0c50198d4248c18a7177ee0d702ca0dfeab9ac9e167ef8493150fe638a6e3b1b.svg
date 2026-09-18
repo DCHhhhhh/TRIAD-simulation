@@ -1,0 +1,745 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 1093.83 1600 1035.6" width="1600" height="1035.6" id="expertise_escalation" data-template-version="f6ad71fb872107a658b3fb3137ef593eaac65608f4043f628a8696379d641714"><defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #d8d6ce;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #f7f7f3;
+      }
+
+      .cls-5 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-88, .cls-89, .cls-90, .cls-91, .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100, .cls-101, .cls-102, .cls-103, .cls-104, .cls-105, .cls-106, .cls-107, .cls-108, .cls-109, .cls-110, .cls-111, .cls-112, .cls-113, .cls-114, .cls-115, .cls-116, .cls-117, .cls-118, .cls-119, .cls-120, .cls-121 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-12, .cls-14, .cls-15, .cls-122, .cls-22, .cls-25, .cls-26, .cls-27, .cls-32, .cls-33, .cls-37, .cls-123, .cls-47, .cls-51, .cls-53, .cls-124, .cls-56, .cls-58, .cls-63, .cls-66, .cls-67, .cls-71, .cls-73, .cls-125, .cls-126, .cls-80, .cls-127, .cls-87, .cls-90, .cls-91, .cls-92, .cls-94, .cls-128, .cls-107, .cls-108, .cls-110, .cls-112, .cls-114, .cls-129, .cls-130 {
+        font-family: 'AlibabaPuHuiTi_3_55_Regular', 'AlibabaPuHuiTi 3 55 Regular', Arial, 'PingFang SC', sans-serif; font-weight: 400;
+        
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-131, .cls-48, .cls-63, .cls-80, .cls-90, .cls-105 {
+        fill: #433e34;
+      }
+
+      .cls-5, .cls-6, .cls-13, .cls-21, .cls-28, .cls-33, .cls-123, .cls-39, .cls-40, .cls-54, .cls-63, .cls-69, .cls-126, .cls-85, .cls-97, .cls-99, .cls-103, .cls-104 {
+        font-size: 14px;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7, .cls-9, .cls-17, .cls-20, .cls-34, .cls-35, .cls-38, .cls-39, .cls-40, .cls-42, .cls-44, .cls-45, .cls-50, .cls-57, .cls-59, .cls-62, .cls-64, .cls-65, .cls-69, .cls-70, .cls-79, .cls-82, .cls-86, .cls-88, .cls-89, .cls-93, .cls-96, .cls-98, .cls-101, .cls-111, .cls-116, .cls-119, .cls-120 {
+        font-family: 'AlibabaPuHuiTi_3_85_Bold', 'AlibabaPuHuiTi 3 85 Bold', Arial, 'PingFang SC', sans-serif; font-weight: 700;
+        
+      }
+
+      .cls-7, .cls-122, .cls-32, .cls-35, .cls-36, .cls-58, .cls-89, .cls-94 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-40, .cls-86, .cls-111, .cls-132 {
+        fill: #494b1c;
+      }
+
+      .cls-133, .cls-134, .cls-135, .cls-27, .cls-28, .cls-136, .cls-35, .cls-36, .cls-47, .cls-137, .cls-138, .cls-68, .cls-76, .cls-77, .cls-78, .cls-81, .cls-139, .cls-106, .cls-140, .cls-109 {
+        fill: #221f1b;
+      }
+
+      .cls-133, .cls-17, .cls-18, .cls-24, .cls-38, .cls-50, .cls-59, .cls-64, .cls-79, .cls-86, .cls-93, .cls-96 {
+        font-size: 20px;
+      }
+
+      .cls-133, .cls-135, .cls-137, .cls-138, .cls-55, .cls-141, .cls-78, .cls-81, .cls-84, .cls-139, .cls-113 {
+        font-family: 'AlibabaPuHuiTi_3_45_Light', 'AlibabaPuHuiTi 3 45 Light', Arial, 'PingFang SC', sans-serif; font-weight: 300;
+        
+      }
+
+      .cls-8, .cls-142, .cls-29, .cls-46, .cls-72, .cls-114, .cls-143 {
+        fill: #69655d;
+      }
+
+      .cls-8, .cls-10, .cls-27, .cls-37, .cls-48, .cls-68, .cls-73, .cls-83, .cls-105, .cls-109, .cls-111, .cls-112, .cls-119 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-24, .cls-28, .cls-29, .cls-30, .cls-31, .cls-36, .cls-41, .cls-43, .cls-46, .cls-49, .cls-54, .cls-104, .cls-140, .cls-117 {
+        font-family: 'AlibabaPuHuiTi_3_65_Medium', 'AlibabaPuHuiTi 3 65 Medium', Arial, 'PingFang SC', sans-serif; font-weight: 500;
+        
+      }
+
+      .cls-9 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9, .cls-16, .cls-57, .cls-130 {
+        font-size: 17px;
+      }
+
+      .cls-9, .cls-56, .cls-65, .cls-116 {
+        fill: #1d1915;
+      }
+
+      .cls-144, .cls-15, .cls-16, .cls-18, .cls-145, .cls-122, .cls-21, .cls-24, .cls-33, .cls-123, .cls-43, .cls-44, .cls-2, .cls-146, .cls-147, .cls-148, .cls-50, .cls-51, .cls-54, .cls-58, .cls-60, .cls-149, .cls-150, .cls-151, .cls-71, .cls-73, .cls-152, .cls-127, .cls-94, .cls-153, .cls-100, .cls-101, .cls-110, .cls-113, .cls-154, .cls-155, .cls-121, .cls-129, .cls-130 {
+        fill: #fff;
+      }
+
+      .cls-144, .cls-145, .cls-2, .cls-146, .cls-147, .cls-148, .cls-156, .cls-157, .cls-149, .cls-152, .cls-158, .cls-159, .cls-160, .cls-3, .cls-161 {
+        stroke-width: 2px;
+      }
+
+      .cls-144, .cls-162, .cls-163, .cls-164, .cls-165, .cls-166, .cls-160 {
+        stroke: #6c685f;
+      }
+
+      .cls-167, .cls-14, .cls-34, .cls-57 {
+        fill: #6d685f;
+      }
+
+      .cls-142 {
+        font-family: PingFangHK-Semibold-B5pc-H, 'PingFang HK';
+        font-size: 11.72px;
+        font-weight: 600;
+      }
+
+      .cls-11 {
+        opacity: .49;
+      }
+
+      .cls-12, .cls-25, .cls-26, .cls-29, .cls-41, .cls-66, .cls-67, .cls-72, .cls-91, .cls-92, .cls-107, .cls-108 {
+        font-size: 11px;
+      }
+
+      .cls-12, .cls-31, .cls-39, .cls-41, .cls-55, .cls-141, .cls-84, .cls-97, .cls-112, .cls-168, .cls-115, .cls-118 {
+        fill: #403b30;
+      }
+
+      .cls-13, .cls-21, .cls-23, .cls-85, .cls-97, .cls-99, .cls-103 {
+        font-family: 'AlibabaPuHuiTi_3_35_Thin', 'AlibabaPuHuiTi 3 35 Thin', Arial, 'PingFang SC', sans-serif; font-weight: 200;
+        
+      }
+
+      .cls-13, .cls-42, .cls-169, .cls-170, .cls-64 {
+        fill: #727622;
+      }
+
+      .cls-14, .cls-20, .cls-135, .cls-34, .cls-42, .cls-45, .cls-49, .cls-56, .cls-60, .cls-62, .cls-70, .cls-81, .cls-88, .cls-102, .cls-140 {
+        font-size: 18px;
+      }
+
+      .cls-15, .cls-22 {
+        font-size: 10.16px;
+      }
+
+      .cls-16, .cls-19, .cls-77, .cls-121 {
+        font-family: 'AlibabaPuHuiTi_3_95_ExtraBold', 'AlibabaPuHuiTi 3 95 ExtraBold', Arial, 'PingFang SC', sans-serif; font-weight: 800;
+        
+      }
+
+      .cls-17, .cls-59, .cls-70, .cls-171 {
+        fill: #343f8b;
+      }
+
+      .cls-18, .cls-60, .cls-102 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-19 {
+        fill: #4a4c22;
+      }
+
+      .cls-19, .cls-77, .cls-116, .cls-121 {
+        font-size: 24px;
+      }
+
+      .cls-20, .cls-172, .cls-69, .cls-82, .cls-89, .cls-102 {
+        fill: #413c31;
+      }
+
+      .cls-145, .cls-161 {
+        stroke: #72751f;
+      }
+
+      .cls-22 {
+        fill: #eeece5;
+      }
+
+      .cls-23, .cls-31, .cls-46 {
+        font-size: 13px;
+      }
+
+      .cls-23, .cls-173, .cls-103 {
+        fill: #1e1a33;
+      }
+
+      .cls-25, .cls-26, .cls-174 {
+        fill: #34449b;
+      }
+
+      .cls-25, .cls-66, .cls-91, .cls-108 {
+        letter-spacing: .06em;
+      }
+
+      .cls-26, .cls-67, .cls-92, .cls-107 {
+        letter-spacing: .06em;
+      }
+
+      .cls-30, .cls-43, .cls-55, .cls-78, .cls-106, .cls-120 {
+        font-size: 15px;
+      }
+
+      .cls-175 {
+        stroke: #6d685f;
+      }
+
+      .cls-175, .cls-176, .cls-177, .cls-169, .cls-178, .cls-153, .cls-159, .cls-179, .cls-154, .cls-155 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-175, .cls-176, .cls-156, .cls-162, .cls-157, .cls-180, .cls-158, .cls-95, .cls-159, .cls-164, .cls-165, .cls-179, .cls-166, .cls-160, .cls-3, .cls-161 {
+        fill: none;
+      }
+
+      .cls-181, .cls-38, .cls-88 {
+        fill: #e89c6a;
+      }
+
+      .cls-32 {
+        fill: #6c685f;
+      }
+
+      .cls-136, .cls-68, .cls-76 {
+        font-family: 'AlibabaPuHuiTi_3_115_Black', 'AlibabaPuHuiTi 3 115 Black', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-136, .cls-76 {
+        font-size: 41px;
+      }
+
+      .cls-182 {
+        fill: #dcd3f1;
+      }
+
+      .cls-182, .cls-183, .cls-184, .cls-150, .cls-185, .cls-186 {
+        stroke: #c9c6bc;
+      }
+
+      .cls-37, .cls-49, .cls-53, .cls-125, .cls-83, .cls-87, .cls-104, .cls-117, .cls-119 {
+        fill: #6c685f;
+      }
+
+      .cls-187 {
+        fill: #72751f;
+      }
+
+      .cls-188, .cls-74 {
+        fill: #e79a6a;
+      }
+
+      .cls-176, .cls-177, .cls-154 {
+        stroke: #1e1a33;
+      }
+
+      .cls-176, .cls-165 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-189, .cls-75 {
+        fill: #dfe39a;
+      }
+
+      .cls-177 {
+        fill: #463789;
+      }
+
+      .cls-177, .cls-169, .cls-178, .cls-153, .cls-154, .cls-155 {
+        stroke-width: 5px;
+      }
+
+      .cls-190, .cls-45, .cls-96, .cls-120 {
+        fill: #e0e49c;
+      }
+
+      .cls-191 {
+        fill: #a20f0f;
+      }
+
+      .cls-44, .cls-47, .cls-138, .cls-65, .cls-125, .cls-87, .cls-110 {
+        font-size: 21px;
+      }
+
+      .cls-192 {
+        fill: #faebdd;
+      }
+
+      .cls-146, .cls-180, .cls-95 {
+        stroke: #fff;
+      }
+
+      .cls-193 {
+        fill: #a51332;
+      }
+
+      .cls-147 {
+        stroke: #37418a;
+      }
+
+      .cls-148 {
+        stroke: #e79a6a;
+      }
+
+      .cls-169, .cls-153 {
+        stroke: #23351a;
+      }
+
+      .cls-156, .cls-149, .cls-158 {
+        stroke: #d9d8d1;
+      }
+
+      .cls-48, .cls-128, .cls-194 {
+        letter-spacing: .05em;
+      }
+
+      .cls-195, .cls-184 {
+        fill: #f1f0ec;
+      }
+
+      .cls-196 {
+        fill: #787b00;
+      }
+
+      .cls-137 {
+        font-size: 23.13px;
+      }
+
+      .cls-51 {
+        font-size: 14.06px;
+      }
+
+      .cls-53 {
+        font-size: 9.07px;
+      }
+
+      .cls-183 {
+        fill: #f2d4b9;
+      }
+
+      .cls-178, .cls-197 {
+        fill: #eda56e;
+      }
+
+      .cls-178, .cls-155 {
+        stroke: #603c15;
+      }
+
+      .cls-198 {
+        fill: #f1f2df;
+      }
+
+      .cls-163, .cls-164 {
+        stroke-width: 1.4px;
+      }
+
+      .cls-199 {
+        fill: #f6f8f4;
+      }
+
+      .cls-157, .cls-152 {
+        stroke: #654fad;
+      }
+
+      .cls-200 {
+        fill: #654fad;
+      }
+
+      .cls-59, .cls-86, .cls-93 {
+        letter-spacing: .02em;
+      }
+
+      .cls-61, .cls-201 {
+        fill: #a797dd;
+      }
+
+      .cls-61, .cls-75 {
+        opacity: .45;
+      }
+
+      .cls-202 {
+        stroke: #433e34;
+      }
+
+      .cls-202, .cls-203 {
+        fill: #edebe6;
+      }
+
+      .cls-62, .cls-79, .cls-93, .cls-204 {
+        fill: #654eaf;
+      }
+
+      .cls-205 {
+        fill: #37418a;
+      }
+
+      .cls-66, .cls-67, .cls-206 {
+        fill: #777a13;
+      }
+
+      .cls-71 {
+        font-size: 9.12px;
+      }
+
+      .cls-72 {
+        font-family: PingFangSC-Regular-GBpc-EUC-H, 'PingFang SC';
+      }
+
+      .cls-180 {
+        stroke-linejoin: round;
+        stroke-width: 2.88px;
+      }
+
+      .cls-180, .cls-158 {
+        stroke-linecap: round;
+      }
+
+      .cls-74 {
+        opacity: .22;
+      }
+
+      .cls-207 {
+        fill: #f9f4f4;
+      }
+
+      .cls-141, .cls-84 {
+        font-size: 11.56px;
+      }
+
+      .cls-208, .cls-91, .cls-92 {
+        fill: #674db7;
+      }
+
+      .cls-209 {
+        fill: #d94a4a;
+      }
+
+      .cls-80 {
+        font-size: 10px;
+      }
+
+      .cls-82, .cls-98, .cls-101 {
+        font-size: 22px;
+      }
+
+      .cls-83, .cls-109 {
+        font-family: 'AlibabaPuHuiTi_3_105_Heavy', 'AlibabaPuHuiTi 3 105 Heavy', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-85, .cls-210 {
+        fill: #f08c4d;
+      }
+
+      .cls-127 {
+        font-size: 12.5px;
+      }
+
+      .cls-139 {
+        font-size: 23px;
+      }
+
+      .cls-90 {
+        font-size: 7.71px;
+        letter-spacing: .05em;
+      }
+
+      .cls-94 {
+        letter-spacing: .01em;
+      }
+
+      .cls-211, .cls-107, .cls-108 {
+        fill: #e99760;
+      }
+
+      .cls-95 {
+        opacity: .8;
+      }
+
+      .cls-159 {
+        stroke: #000;
+      }
+
+      .cls-99 {
+        fill: #b44545;
+      }
+
+      .cls-100 {
+        font-size: 13.28px;
+      }
+
+      .cls-100, .cls-106 {
+        font-family: 'AlibabaPuHuiTi_3_75_SemiBold', 'AlibabaPuHuiTi 3 75 SemiBold', Arial, 'PingFang SC', sans-serif; font-weight: 600;
+        
+      }
+
+      .cls-212 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-213 {
+        fill: #edece7;
+      }
+
+      .cls-185 {
+        fill: #dce5a3;
+      }
+
+      .cls-179 {
+        stroke: #403b30;
+        stroke-width: .75px;
+      }
+
+      .cls-186 {
+        fill: #f1c6c6;
+      }
+
+      .cls-113 {
+        font-size: 30px;
+      }
+
+      .cls-114 {
+        font-size: 8.59px;
+      }
+
+      .cls-115 {
+        font-size: 11.84px;
+      }
+
+      .cls-115, .cls-118 {
+        font-family: AdobeMingStd-Light-B5pc-H, 'Adobe Ming Std';
+        font-weight: 300;
+      }
+
+      .cls-214 {
+        fill: #f0ecfa;
+      }
+
+      .cls-194, .cls-215, .cls-216 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-215 {
+        letter-spacing: .05em;
+      }
+
+      .cls-166 {
+        stroke-dasharray: 8 8;
+      }
+
+      .cls-117 {
+        font-size: 14.7px;
+      }
+
+      .cls-217 {
+        fill: #e9ecf8;
+      }
+
+      .cls-118 {
+        font-size: 11.72px;
+      }
+
+      .cls-218 {
+        letter-spacing: .03em;
+      }
+
+      .cls-129 {
+        font-size: 19.85px;
+      }
+
+      .cls-219 {
+        letter-spacing: .01em;
+      }
+
+      .cls-220 {
+        fill: #63a51c;
+      }
+
+      .cls-221 {
+        fill: #6c4bb8;
+      }
+    </style>
+  </defs>
+  <g id="layer-background-2" data-name="layer-background">
+    <rect class="cls-4" y="1128.83" width="1600" height="1000.5999999999999" />
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-76" transform="translate(91.9 1204.97)"><tspan x="0" y="0">EXPERTISE ESCALATION</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-87" transform="translate(91.9 1249.19)"><tspan x="0" y="0">Closing an expertise gap without substituting majority preference.</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-87" transform="translate(91.9 1285.11)"><tspan x="0" y="0">当团队没有足够专业知识判断某项主张时，规定怎么样处理。投票不能制造专业知识，多数人的偏好也不一定是好的</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect class="cls-149" x="91.9" y="1304.86" width="1420" height="134.81999999999994" rx="37.88" ry="37.88" />
+  <path class="cls-181" d="M147.03 1331.71H285.03C299.39 1331.71 311.03 1343.3500000000001 311.03 1357.71C311.03 1372.07 299.39 1383.71 285.03 1383.71H147.02999999999997C132.66999999999996 1383.71 121.02999999999997 1372.07 121.02999999999997 1357.71C121.02999999999997 1343.3500000000001 132.66999999999996 1331.71 147.02999999999997 1331.71Z" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-98" transform="translate(148.92 1366.7)"><tspan x="0" y="0">EXPERT–GAP</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="cls-213" d="M1272.27 1334.49H1454.27C1467.52 1334.49 1478.27 1345.24 1478.27 1358.49C1478.27 1371.74 1467.52 1382.49 1454.27 1382.49H1272.27C1259.02 1382.49 1248.27 1371.74 1248.27 1358.49C1248.27 1345.24 1259.02 1334.49 1272.27 1334.49Z" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-102" transform="translate(1279.93 1366.48)"><tspan class="cls-218" x="0" y="0">NO MAJORIT</tspan><tspan class="cls-219" x="118.22" y="0">Y</tspan><tspan class="cls-218" x="130.42" y="0"> FIX</tspan></text>
+    </g>
+  </g>
+  <path class="cls-167" d="M420.9 1711.8999999999999 456.57 1729.7299999999998 420.9 1747.5599999999997V1711.8899999999996V1711.8999999999999Z" />
+  <path class="cls-167" d="M783.51 1711.8999999999999 819.18 1729.7299999999998 783.51 1747.5599999999997V1711.8899999999996V1711.8999999999999Z" />
+  <path class="cls-167" d="M1148.9 1711.73 1184.9 1729.73 1148.9 1747.73V1711.73Z" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-49" transform="translate(91.9 2050.35)"><tspan x="0" y="0">Reassess credibility after each action; escalate only as far as necessary.</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-49" transform="translate(324.43 1351.21)"><tspan x="0" y="0">REQUIREMENT OR EXPERTISE GAP  需求或专业能力差距</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="cls-149" d="M99.32 1464.74H412.48C416.57 1464.74 419.90000000000003 1468.06 419.90000000000003 1472.16V1988.1000000000001C419.90000000000003 2000.9800000000002 409.44000000000005 2011.44 396.56000000000006 2011.44H115.24C102.36 2011.44 91.89999999999999 2000.98 91.89999999999999 1988.1000000000001V1472.16C91.89999999999999 1468.0700000000002 95.21999999999998 1464.74 99.32 1464.74Z" />
+  <path class="cls-170" d="M98.9 1464.74H412.9C416.77 1464.74 419.9 1467.8700000000001 419.9 1471.74C419.9 1475.61 416.77 1478.74 412.9 1478.74H98.9C95.03 1478.74 91.9 1475.61 91.9 1471.74C91.9 1467.8700000000001 95.03 1464.74 98.9 1464.74Z" />
+  <circle class="cls-170" cx="136.9" cy="1520.74" r="26" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-18" transform="translate(125.78 1529.73)"><tspan x="0" y="0">01</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-64" transform="translate(175.9 1529.73)"><tspan x="0" y="0">OBTAIN</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(110.9 1574.73)"><tspan x="0" y="0">Additional evidence</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(110.9 1603.73)"><tspan x="0" y="0">取得额外的依据</tspan></text>
+    </g>
+  </g>
+  <path class="cls-149" d="M465.53 1464.74H774.27C779.59 1464.74 783.9 1469.06 783.9 1474.3700000000001V1988.0900000000001C783.9 2000.9700000000003 773.4399999999999 2011.43 760.56 2011.43H479.23999999999995C466.35999999999996 2011.43 455.9 2000.97 455.9 1988.0900000000001V1474.3700000000001C455.9 1469.0500000000002 460.21999999999997 1464.74 465.53 1464.74Z" />
+  <path class="cls-204" d="M462.9 1464.74H776.9C780.77 1464.74 783.9 1467.8700000000001 783.9 1471.74C783.9 1475.61 780.77 1478.74 776.9 1478.74H462.9C459.03 1478.74 455.9 1475.61 455.9 1471.74C455.9 1467.8700000000001 459.03 1464.74 462.9 1464.74Z" />
+  <circle class="cls-204" cx="500.9" cy="1520.74" r="26" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-18" transform="translate(489.78 1529.73)"><tspan x="0" y="0">02</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-79" transform="translate(539.9 1529.73)"><tspan x="0" y="0">CONSULT</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(474.16 1574.73)"><tspan x="0" y="0">Subject-matter expert</tspan></text>
+    </g>
+  </g>
+  <path class="cls-149" d="M829.56 1464.74H1138.25C1143.58 1464.74 1147.91 1469.07 1147.91 1474.4V1988.1000000000001C1147.91 2000.9800000000002 1137.45 2011.44 1124.5700000000002 2011.44H843.2500000000002C830.3700000000002 2011.44 819.9100000000002 2000.98 819.9100000000002 1988.1000000000001V1474.4C819.9100000000002 1469.0700000000002 824.2400000000002 1464.74 829.5700000000002 1464.74H829.56Z" />
+  <path class="cls-181" d="M826.9 1464.74H1140.9C1144.77 1464.74 1147.9 1467.8700000000001 1147.9 1471.74C1147.9 1475.61 1144.77 1478.74 1140.9 1478.74H826.9000000000001C823.0300000000001 1478.74 819.9000000000001 1475.61 819.9000000000001 1471.74C819.9000000000001 1467.8700000000001 823.0300000000001 1464.74 826.9000000000001 1464.74Z" />
+  <circle class="cls-181" cx="864.9" cy="1520.74" r="26" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-18" transform="translate(853.78 1529.73)"><tspan x="0" y="0">03</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-38" transform="translate(903.9 1529.73)"><tspan x="0" y="0">REDUCE</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(837.58 1574.73)"><tspan x="0" y="0">Scope of the claim</tspan></text>
+    </g>
+  </g>
+  <path class="cls-149" d="M1193.6 1464.74H1502.1899999999998C1507.5499999999997 1464.74 1511.8899999999999 1469.09 1511.8899999999999 1474.44V1988.0900000000001C1511.8899999999999 2000.9700000000003 1501.4299999999998 2011.43 1488.55 2011.43H1207.23C1194.35 2011.43 1183.89 2000.97 1183.89 1988.0900000000001V1474.44C1183.89 1469.0800000000002 1188.24 1464.74 1193.5900000000001 1464.74H1193.6Z" />
+  <path class="cls-171" d="M1190.9 1464.74H1504.9C1508.77 1464.74 1511.9 1467.8700000000001 1511.9 1471.74C1511.9 1475.61 1508.77 1478.74 1504.9 1478.74H1190.9C1187.0300000000002 1478.74 1183.9 1475.61 1183.9 1471.74C1183.9 1467.8700000000001 1187.0300000000002 1464.74 1190.9 1464.74Z" />
+  <circle class="cls-171" cx="1228.9" cy="1520.74" r="26" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-18" transform="translate(1217.78 1529.73)"><tspan x="0" y="0">04</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-17" transform="translate(1267.9 1529.73)"><tspan x="0" y="0">DEFER</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(1202.83 1574.73)"><tspan x="0" y="0">Affected decision</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-76" transform="translate(598.75 1205.19)"><tspan x="0" y="0">专业知识升级机制</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-88" transform="translate(162.9 1405.9)"><tspan x="0" y="0">专业知识缺口</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(475.64 1603.73)"><tspan x="0" y="0">咨询对应专家</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(838.9 1603.73)"><tspan x="0" y="0">缩小主张/提议的范围</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-65" transform="translate(1202.97 1603.73)"><tspan x="0" y="0">延后决定受影响的问题</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-49" transform="translate(730.07 2050.35)"><tspan x="0" y="0">每次行动后重新评估可信度，只有必需时才升级(问题/争议)</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-167" x="1382.34" y="1173.14" width="129.56" height="38.789999999999964" rx="19.39" ry="19.39" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-101" transform="translate(1400.58 1200.56)"><tspan x="0" y="0">Optional</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="expertise_escalation__expertise_gap" data-field="expertise_gap"><g data-shared-field="expertise_gap" data-in-field="true" data-field-box="[325, 1367, 875, 54.59999999999991]" data-entry-ids="E00017" data-entry-id="E00017" tabindex="0" role="button"><title>{"field": "expertise_gap", "records": [["EE-P4-record-calibration", {"status": "supported", "value": "前台对“独立完成/需协助/失败卡住”的记录口径可能在不同班次间漂移，现阶段缺少统一定义落地后的可执行验证。", "alternatives": [{"value": "前台对“独立完成/需协助/失败卡住”的记录口径可能在不同班次间漂移，现阶段缺少统一定义落地后的可执行验证。", "sources": [{"entry_id": "E00017", "participant_id": "P4", "participant_role": "软件工程师", "status": "supported", "supporters": ["P5", "P2", "P3"], "challengers": []}]}]}]]}</title><text x="325" y="1385" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="325" dy="0">前台对“独立完成/需协助/失败卡住”的记录口径可能在不同班次间漂移，现阶段缺少统一定义落地后的可</tspan><tspan x="325" dy="24.3">执行验证。</tspan></text></g></g><g id="expertise_escalation__additional_evidence" data-field="additional_evidence"><g data-shared-field="additional_evidence" data-in-field="true" data-field-box="[110, 1634.6, 297, 340.0]" data-entry-ids="E00017" data-entry-id="E00017" tabindex="0" role="button"><title>{"field": "additional_evidence", "records": [["EE-P4-record-calibration", {"status": "supported", "value": "先按统一三档短句试记两天，并仅记录卡住环节；比较各班次是否按同一口径记录。", "alternatives": [{"value": "先按统一三档短句试记两天，并仅记录卡住环节；比较各班次是否按同一口径记录。", "sources": [{"entry_id": "E00017", "participant_id": "P4", "participant_role": "软件工程师", "status": "supported", "supporters": ["P5", "P2", "P3"], "challengers": []}]}]}]]}</title><text x="110" y="1652.6" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="110" dy="0">先按统一三档短句试记两天，并仅记</tspan><tspan x="110" dy="24.3">录卡住环节；比较各班次是否按同一</tspan><tspan x="110" dy="24.3">口径记录。</tspan></text></g></g><g id="expertise_escalation__subject_matter_expert" data-field="subject_matter_expert"><g data-shared-field="subject_matter_expert" data-in-field="true" data-field-box="[475, 1634.6, 297, 340.0]" data-entry-ids="E00017" data-entry-id="E00017" tabindex="0" role="button"><title>{"field": "subject_matter_expert", "records": [["EE-P4-record-calibration", {"status": "supported", "value": "P3 图书馆服务主管；P5 设施运营负责人；P2 无障碍服务代表", "alternatives": [{"value": "P3 图书馆服务主管；P5 设施运营负责人；P2 无障碍服务代表", "sources": [{"entry_id": "E00017", "participant_id": "P4", "participant_role": "软件工程师", "status": "supported", "supporters": ["P5", "P2", "P3"], "challengers": []}]}]}]]}</title><text x="475" y="1652.6" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="475" dy="0">P3 图书馆服务主管；P5 设施运营</tspan><tspan x="475" dy="24.3">负责人；P2 无障碍服务代表</tspan></text></g></g><g id="expertise_escalation__reduced_scope" data-field="reduced_scope"><g data-shared-field="reduced_scope" data-in-field="true" data-field-box="[839, 1634.6, 297, 340.0]" data-entry-ids="E00017" data-entry-id="E00017" tabindex="0" role="button"><title>{"field": "reduced_scope", "records": [["EE-P4-record-calibration", {"status": "supported", "value": "把这两天的用途限定为低成本记录口径校准，不用于证明试点成效或比较方案优劣。", "alternatives": [{"value": "把这两天的用途限定为低成本记录口径校准，不用于证明试点成效或比较方案优劣。", "sources": [{"entry_id": "E00017", "participant_id": "P4", "participant_role": "软件工程师", "status": "supported", "supporters": ["P5", "P2", "P3"], "challengers": []}]}]}]]}</title><text x="839" y="1652.6" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="839" dy="0">把这两天的用途限定为低成本记录口</tspan><tspan x="839" dy="24.3">径校准，不用于证明试点成效或比较</tspan><tspan x="839" dy="24.3">方案优劣。</tspan></text></g></g><g id="expertise_escalation__deferred_decision" data-field="deferred_decision"><g data-shared-field="deferred_decision" data-in-field="true" data-field-box="[1203, 1634.6, 297, 340.0]" data-entry-ids="E00017" data-entry-id="E00017" tabindex="0" role="button"><title>{"field": "deferred_decision", "records": [["EE-P4-record-calibration", {"status": "supported", "value": "是否依据该记录数据进入方案效果比较，延后到两天试记后再判断。", "alternatives": [{"value": "是否依据该记录数据进入方案效果比较，延后到两天试记后再判断。", "sources": [{"entry_id": "E00017", "participant_id": "P4", "participant_role": "软件工程师", "status": "supported", "supporters": ["P5", "P2", "P3"], "challengers": []}]}]}]]}</title><text x="1203" y="1652.6" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="1203" dy="0">是否依据该记录数据进入方案效果比</tspan><tspan x="1203" dy="24.3">较，延后到两天试记后再判断。</tspan></text></g></g><text x="16" y="1111.83" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#544970"><tspan x="16" dy="0">共享工具 · 1/1 页 · 作者、支持和质疑可点击查看</tspan></text></svg>

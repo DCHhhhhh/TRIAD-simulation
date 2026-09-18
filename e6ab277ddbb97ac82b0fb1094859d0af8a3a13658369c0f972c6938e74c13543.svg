@@ -1,0 +1,831 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0.88 -35 1600 1302.8400000000001" width="1600" height="1302.8400000000001" id="decision_charter" data-template-version="f6ad71fb872107a658b3fb3137ef593eaac65608f4043f628a8696379d641714"><defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #d8d6ce;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #f7f7f3;
+      }
+
+      .cls-5 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-88, .cls-89, .cls-90, .cls-91, .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100, .cls-101, .cls-102, .cls-103, .cls-104, .cls-105, .cls-106, .cls-107, .cls-108, .cls-109, .cls-110, .cls-111, .cls-112, .cls-113, .cls-114, .cls-115, .cls-116, .cls-117, .cls-118, .cls-119, .cls-120, .cls-121 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-12, .cls-14, .cls-15, .cls-122, .cls-22, .cls-25, .cls-26, .cls-27, .cls-32, .cls-33, .cls-37, .cls-123, .cls-47, .cls-51, .cls-53, .cls-124, .cls-56, .cls-58, .cls-63, .cls-66, .cls-67, .cls-71, .cls-73, .cls-125, .cls-126, .cls-80, .cls-127, .cls-87, .cls-90, .cls-91, .cls-92, .cls-94, .cls-128, .cls-107, .cls-108, .cls-110, .cls-112, .cls-114, .cls-129, .cls-130 {
+        font-family: 'AlibabaPuHuiTi_3_55_Regular', 'AlibabaPuHuiTi 3 55 Regular', Arial, 'PingFang SC', sans-serif; font-weight: 400;
+        
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-131, .cls-48, .cls-63, .cls-80, .cls-90, .cls-105 {
+        fill: #433e34;
+      }
+
+      .cls-5, .cls-6, .cls-13, .cls-21, .cls-28, .cls-33, .cls-123, .cls-39, .cls-40, .cls-54, .cls-63, .cls-69, .cls-126, .cls-85, .cls-97, .cls-99, .cls-103, .cls-104 {
+        font-size: 14px;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7, .cls-9, .cls-17, .cls-20, .cls-34, .cls-35, .cls-38, .cls-39, .cls-40, .cls-42, .cls-44, .cls-45, .cls-50, .cls-57, .cls-59, .cls-62, .cls-64, .cls-65, .cls-69, .cls-70, .cls-79, .cls-82, .cls-86, .cls-88, .cls-89, .cls-93, .cls-96, .cls-98, .cls-101, .cls-111, .cls-116, .cls-119, .cls-120 {
+        font-family: 'AlibabaPuHuiTi_3_85_Bold', 'AlibabaPuHuiTi 3 85 Bold', Arial, 'PingFang SC', sans-serif; font-weight: 700;
+        
+      }
+
+      .cls-7, .cls-122, .cls-32, .cls-35, .cls-36, .cls-58, .cls-89, .cls-94 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-40, .cls-86, .cls-111, .cls-132 {
+        fill: #494b1c;
+      }
+
+      .cls-133, .cls-134, .cls-135, .cls-27, .cls-28, .cls-136, .cls-35, .cls-36, .cls-47, .cls-137, .cls-138, .cls-68, .cls-76, .cls-77, .cls-78, .cls-81, .cls-139, .cls-106, .cls-140, .cls-109 {
+        fill: #221f1b;
+      }
+
+      .cls-133, .cls-17, .cls-18, .cls-24, .cls-38, .cls-50, .cls-59, .cls-64, .cls-79, .cls-86, .cls-93, .cls-96 {
+        font-size: 20px;
+      }
+
+      .cls-133, .cls-135, .cls-137, .cls-138, .cls-55, .cls-141, .cls-78, .cls-81, .cls-84, .cls-139, .cls-113 {
+        font-family: 'AlibabaPuHuiTi_3_45_Light', 'AlibabaPuHuiTi 3 45 Light', Arial, 'PingFang SC', sans-serif; font-weight: 300;
+        
+      }
+
+      .cls-8, .cls-142, .cls-29, .cls-46, .cls-72, .cls-114, .cls-143 {
+        fill: #69655d;
+      }
+
+      .cls-8, .cls-10, .cls-27, .cls-37, .cls-48, .cls-68, .cls-73, .cls-83, .cls-105, .cls-109, .cls-111, .cls-112, .cls-119 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-24, .cls-28, .cls-29, .cls-30, .cls-31, .cls-36, .cls-41, .cls-43, .cls-46, .cls-49, .cls-54, .cls-104, .cls-140, .cls-117 {
+        font-family: 'AlibabaPuHuiTi_3_65_Medium', 'AlibabaPuHuiTi 3 65 Medium', Arial, 'PingFang SC', sans-serif; font-weight: 500;
+        
+      }
+
+      .cls-9 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9, .cls-16, .cls-57, .cls-130 {
+        font-size: 17px;
+      }
+
+      .cls-9, .cls-56, .cls-65, .cls-116 {
+        fill: #1d1915;
+      }
+
+      .cls-144, .cls-15, .cls-16, .cls-18, .cls-145, .cls-122, .cls-21, .cls-24, .cls-33, .cls-123, .cls-43, .cls-44, .cls-2, .cls-146, .cls-147, .cls-148, .cls-50, .cls-51, .cls-54, .cls-58, .cls-60, .cls-149, .cls-150, .cls-151, .cls-71, .cls-73, .cls-152, .cls-127, .cls-94, .cls-153, .cls-100, .cls-101, .cls-110, .cls-113, .cls-154, .cls-155, .cls-121, .cls-129, .cls-130 {
+        fill: #fff;
+      }
+
+      .cls-144, .cls-145, .cls-2, .cls-146, .cls-147, .cls-148, .cls-156, .cls-157, .cls-149, .cls-152, .cls-158, .cls-159, .cls-160, .cls-3, .cls-161 {
+        stroke-width: 2px;
+      }
+
+      .cls-144, .cls-162, .cls-163, .cls-164, .cls-165, .cls-166, .cls-160 {
+        stroke: #6c685f;
+      }
+
+      .cls-167, .cls-14, .cls-34, .cls-57 {
+        fill: #6d685f;
+      }
+
+      .cls-142 {
+        font-family: PingFangHK-Semibold-B5pc-H, 'PingFang HK';
+        font-size: 11.72px;
+        font-weight: 600;
+      }
+
+      .cls-11 {
+        opacity: .49;
+      }
+
+      .cls-12, .cls-25, .cls-26, .cls-29, .cls-41, .cls-66, .cls-67, .cls-72, .cls-91, .cls-92, .cls-107, .cls-108 {
+        font-size: 11px;
+      }
+
+      .cls-12, .cls-31, .cls-39, .cls-41, .cls-55, .cls-141, .cls-84, .cls-97, .cls-112, .cls-168, .cls-115, .cls-118 {
+        fill: #403b30;
+      }
+
+      .cls-13, .cls-21, .cls-23, .cls-85, .cls-97, .cls-99, .cls-103 {
+        font-family: 'AlibabaPuHuiTi_3_35_Thin', 'AlibabaPuHuiTi 3 35 Thin', Arial, 'PingFang SC', sans-serif; font-weight: 200;
+        
+      }
+
+      .cls-13, .cls-42, .cls-169, .cls-170, .cls-64 {
+        fill: #727622;
+      }
+
+      .cls-14, .cls-20, .cls-135, .cls-34, .cls-42, .cls-45, .cls-49, .cls-56, .cls-60, .cls-62, .cls-70, .cls-81, .cls-88, .cls-102, .cls-140 {
+        font-size: 18px;
+      }
+
+      .cls-15, .cls-22 {
+        font-size: 10.16px;
+      }
+
+      .cls-16, .cls-19, .cls-77, .cls-121 {
+        font-family: 'AlibabaPuHuiTi_3_95_ExtraBold', 'AlibabaPuHuiTi 3 95 ExtraBold', Arial, 'PingFang SC', sans-serif; font-weight: 800;
+        
+      }
+
+      .cls-17, .cls-59, .cls-70, .cls-171 {
+        fill: #343f8b;
+      }
+
+      .cls-18, .cls-60, .cls-102 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-19 {
+        fill: #4a4c22;
+      }
+
+      .cls-19, .cls-77, .cls-116, .cls-121 {
+        font-size: 24px;
+      }
+
+      .cls-20, .cls-172, .cls-69, .cls-82, .cls-89, .cls-102 {
+        fill: #413c31;
+      }
+
+      .cls-145, .cls-161 {
+        stroke: #72751f;
+      }
+
+      .cls-22 {
+        fill: #eeece5;
+      }
+
+      .cls-23, .cls-31, .cls-46 {
+        font-size: 13px;
+      }
+
+      .cls-23, .cls-173, .cls-103 {
+        fill: #1e1a33;
+      }
+
+      .cls-25, .cls-26, .cls-174 {
+        fill: #34449b;
+      }
+
+      .cls-25, .cls-66, .cls-91, .cls-108 {
+        letter-spacing: .06em;
+      }
+
+      .cls-26, .cls-67, .cls-92, .cls-107 {
+        letter-spacing: .06em;
+      }
+
+      .cls-30, .cls-43, .cls-55, .cls-78, .cls-106, .cls-120 {
+        font-size: 15px;
+      }
+
+      .cls-175 {
+        stroke: #6d685f;
+      }
+
+      .cls-175, .cls-176, .cls-177, .cls-169, .cls-178, .cls-153, .cls-159, .cls-179, .cls-154, .cls-155 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-175, .cls-176, .cls-156, .cls-162, .cls-157, .cls-180, .cls-158, .cls-95, .cls-159, .cls-164, .cls-165, .cls-179, .cls-166, .cls-160, .cls-3, .cls-161 {
+        fill: none;
+      }
+
+      .cls-181, .cls-38, .cls-88 {
+        fill: #e89c6a;
+      }
+
+      .cls-32 {
+        fill: #6c685f;
+      }
+
+      .cls-136, .cls-68, .cls-76 {
+        font-family: 'AlibabaPuHuiTi_3_115_Black', 'AlibabaPuHuiTi 3 115 Black', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-136, .cls-76 {
+        font-size: 41px;
+      }
+
+      .cls-182 {
+        fill: #dcd3f1;
+      }
+
+      .cls-182, .cls-183, .cls-184, .cls-150, .cls-185, .cls-186 {
+        stroke: #c9c6bc;
+      }
+
+      .cls-37, .cls-49, .cls-53, .cls-125, .cls-83, .cls-87, .cls-104, .cls-117, .cls-119 {
+        fill: #6c685f;
+      }
+
+      .cls-187 {
+        fill: #72751f;
+      }
+
+      .cls-188, .cls-74 {
+        fill: #e79a6a;
+      }
+
+      .cls-176, .cls-177, .cls-154 {
+        stroke: #1e1a33;
+      }
+
+      .cls-176, .cls-165 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-189, .cls-75 {
+        fill: #dfe39a;
+      }
+
+      .cls-177 {
+        fill: #463789;
+      }
+
+      .cls-177, .cls-169, .cls-178, .cls-153, .cls-154, .cls-155 {
+        stroke-width: 5px;
+      }
+
+      .cls-190, .cls-45, .cls-96, .cls-120 {
+        fill: #e0e49c;
+      }
+
+      .cls-191 {
+        fill: #a20f0f;
+      }
+
+      .cls-44, .cls-47, .cls-138, .cls-65, .cls-125, .cls-87, .cls-110 {
+        font-size: 21px;
+      }
+
+      .cls-192 {
+        fill: #faebdd;
+      }
+
+      .cls-146, .cls-180, .cls-95 {
+        stroke: #fff;
+      }
+
+      .cls-193 {
+        fill: #a51332;
+      }
+
+      .cls-147 {
+        stroke: #37418a;
+      }
+
+      .cls-148 {
+        stroke: #e79a6a;
+      }
+
+      .cls-169, .cls-153 {
+        stroke: #23351a;
+      }
+
+      .cls-156, .cls-149, .cls-158 {
+        stroke: #d9d8d1;
+      }
+
+      .cls-48, .cls-128, .cls-194 {
+        letter-spacing: .05em;
+      }
+
+      .cls-195, .cls-184 {
+        fill: #f1f0ec;
+      }
+
+      .cls-196 {
+        fill: #787b00;
+      }
+
+      .cls-137 {
+        font-size: 23.13px;
+      }
+
+      .cls-51 {
+        font-size: 14.06px;
+      }
+
+      .cls-53 {
+        font-size: 9.07px;
+      }
+
+      .cls-183 {
+        fill: #f2d4b9;
+      }
+
+      .cls-178, .cls-197 {
+        fill: #eda56e;
+      }
+
+      .cls-178, .cls-155 {
+        stroke: #603c15;
+      }
+
+      .cls-198 {
+        fill: #f1f2df;
+      }
+
+      .cls-163, .cls-164 {
+        stroke-width: 1.4px;
+      }
+
+      .cls-199 {
+        fill: #f6f8f4;
+      }
+
+      .cls-157, .cls-152 {
+        stroke: #654fad;
+      }
+
+      .cls-200 {
+        fill: #654fad;
+      }
+
+      .cls-59, .cls-86, .cls-93 {
+        letter-spacing: .02em;
+      }
+
+      .cls-61, .cls-201 {
+        fill: #a797dd;
+      }
+
+      .cls-61, .cls-75 {
+        opacity: .45;
+      }
+
+      .cls-202 {
+        stroke: #433e34;
+      }
+
+      .cls-202, .cls-203 {
+        fill: #edebe6;
+      }
+
+      .cls-62, .cls-79, .cls-93, .cls-204 {
+        fill: #654eaf;
+      }
+
+      .cls-205 {
+        fill: #37418a;
+      }
+
+      .cls-66, .cls-67, .cls-206 {
+        fill: #777a13;
+      }
+
+      .cls-71 {
+        font-size: 9.12px;
+      }
+
+      .cls-72 {
+        font-family: PingFangSC-Regular-GBpc-EUC-H, 'PingFang SC';
+      }
+
+      .cls-180 {
+        stroke-linejoin: round;
+        stroke-width: 2.88px;
+      }
+
+      .cls-180, .cls-158 {
+        stroke-linecap: round;
+      }
+
+      .cls-74 {
+        opacity: .22;
+      }
+
+      .cls-207 {
+        fill: #f9f4f4;
+      }
+
+      .cls-141, .cls-84 {
+        font-size: 11.56px;
+      }
+
+      .cls-208, .cls-91, .cls-92 {
+        fill: #674db7;
+      }
+
+      .cls-209 {
+        fill: #d94a4a;
+      }
+
+      .cls-80 {
+        font-size: 10px;
+      }
+
+      .cls-82, .cls-98, .cls-101 {
+        font-size: 22px;
+      }
+
+      .cls-83, .cls-109 {
+        font-family: 'AlibabaPuHuiTi_3_105_Heavy', 'AlibabaPuHuiTi 3 105 Heavy', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-85, .cls-210 {
+        fill: #f08c4d;
+      }
+
+      .cls-127 {
+        font-size: 12.5px;
+      }
+
+      .cls-139 {
+        font-size: 23px;
+      }
+
+      .cls-90 {
+        font-size: 7.71px;
+        letter-spacing: .05em;
+      }
+
+      .cls-94 {
+        letter-spacing: .01em;
+      }
+
+      .cls-211, .cls-107, .cls-108 {
+        fill: #e99760;
+      }
+
+      .cls-95 {
+        opacity: .8;
+      }
+
+      .cls-159 {
+        stroke: #000;
+      }
+
+      .cls-99 {
+        fill: #b44545;
+      }
+
+      .cls-100 {
+        font-size: 13.28px;
+      }
+
+      .cls-100, .cls-106 {
+        font-family: 'AlibabaPuHuiTi_3_75_SemiBold', 'AlibabaPuHuiTi 3 75 SemiBold', Arial, 'PingFang SC', sans-serif; font-weight: 600;
+        
+      }
+
+      .cls-212 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-213 {
+        fill: #edece7;
+      }
+
+      .cls-185 {
+        fill: #dce5a3;
+      }
+
+      .cls-179 {
+        stroke: #403b30;
+        stroke-width: .75px;
+      }
+
+      .cls-186 {
+        fill: #f1c6c6;
+      }
+
+      .cls-113 {
+        font-size: 30px;
+      }
+
+      .cls-114 {
+        font-size: 8.59px;
+      }
+
+      .cls-115 {
+        font-size: 11.84px;
+      }
+
+      .cls-115, .cls-118 {
+        font-family: AdobeMingStd-Light-B5pc-H, 'Adobe Ming Std';
+        font-weight: 300;
+      }
+
+      .cls-214 {
+        fill: #f0ecfa;
+      }
+
+      .cls-194, .cls-215, .cls-216 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-215 {
+        letter-spacing: .05em;
+      }
+
+      .cls-166 {
+        stroke-dasharray: 8 8;
+      }
+
+      .cls-117 {
+        font-size: 14.7px;
+      }
+
+      .cls-217 {
+        fill: #e9ecf8;
+      }
+
+      .cls-118 {
+        font-size: 11.72px;
+      }
+
+      .cls-218 {
+        letter-spacing: .03em;
+      }
+
+      .cls-129 {
+        font-size: 19.85px;
+      }
+
+      .cls-219 {
+        letter-spacing: .01em;
+      }
+
+      .cls-220 {
+        fill: #63a51c;
+      }
+
+      .cls-221 {
+        fill: #6c4bb8;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x=".88" width="1600" height="1000.34" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-76" transform="translate(70.88 76.25)"><tspan x="0" y="0">Decision Charter 决策章程</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-87" transform="translate(73.26 120.36)"><tspan x="0" y="0">Target the decision before alternatives are proposed or compared.  在团队开始讨论之前，每个人想清楚自己想要讨论什么/解决什么问题</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="cls-205" x="70.88" y="156.26" width="1460" height="99.30000000000001" rx="47" ry="47" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-60" transform="translate(103.88 192.25)"><tspan x="0" y="0">DECISION S</tspan><tspan class="cls-212" x="104.02" y="0">TA</tspan><tspan x="125.34" y="0">TEMENT</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-73" transform="translate(103.88 229.55)"><tspan x="0" y="0">ID 编号: ____________________      Proposed by 由谁提出: ____________________</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <line class="cls-95" x1="570.88" y1="232.07000000000002" x2="1495.88" y2="232.07000000000002" />
+  <rect class="cls-145" x="70.88" y="297.84000000000003" width="710" height="468.1" rx="27.5" ry="27.5" />
+  <rect class="cls-189" x="70.88" y="297.84000000000003" width="710" height="55.0" rx="27.5" ry="27.5" />
+  <rect class="cls-189" x="70.88" y="329.84000000000003" width="710" height="23.0" />
+  <rect class="cls-152" x="820.88" y="297.84000000000003" width="710" height="468.1" rx="27.5" ry="27.5" />
+  <rect class="cls-201" x="820.88" y="297.84000000000003" width="710" height="55.0" rx="27.5" ry="27.5" />
+  <rect class="cls-201" x="820.88" y="329.84000000000003" width="710" height="23.0" />
+  <rect class="cls-148" x="70.88" y="814.21" width="710" height="395.1199999999999" rx="27.5" ry="27.5" />
+  <rect class="cls-188" x="70.88" y="814.21" width="710" height="55.0" rx="27.5" ry="27.5" />
+  <rect class="cls-188" x="70.88" y="846.21" width="710" height="23.0" />
+  <rect class="cls-147" x="820.88" y="814.21" width="710" height="395.1199999999999" rx="27.5" ry="27.5" />
+  <rect class="cls-205" x="820.88" y="814.21" width="710" height="55.0" rx="27.5" ry="27.5" />
+  <rect class="cls-205" x="820.88" y="846.21" width="710" height="23.0" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-19" transform="translate(103.88 334.84000000000003)"><tspan x="0" y="0">WHY 为什么</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-121" transform="translate(853.88 334.84000000000003)"><tspan x="0" y="0">WHO 谁</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-77" transform="translate(103.88 851.2)"><tspan x="0" y="0">WHAT 什么</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-121" transform="translate(853.88 851.21)"><tspan x="0" y="0">WHEN / UNDER WHAT RULE 时间/规则</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(103.88 386.08)"><tspan x="0" y="0">Problem 问题</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(105.27 531.62)"><tspan x="0" y="0">Training objective 训练目的</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(103.88 654.32)"><tspan x="0" y="0">Success evidence 成功依据</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(853.88 388.34000000000003)"><tspan x="0" y="0">Users 用户</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(853.88 531.62)"><tspan x="0" y="0">Affected groups 受影响的人</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(853.88 656.84)"><tspan x="0" y="0">Decision owner 决策者</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(103.88 902.2)"><tspan x="0" y="0">Decision scope （本次）决策范围</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(103.88 1017.49)"><tspan x="0" y="0">Open alternatives 候选方案（原始的，讨论之前的构思）</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(853.88 900.72)"><tspan x="0" y="0">Deadline 时间限制</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(853.88 976.96)"><tspan x="0" y="0">Deployment stage （预期的）开发阶段</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-36" transform="translate(853.88 1060.65)"><tspan x="0" y="0">Governance rule 管理规则</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <line class="cls-165" x1="103.88" y1="503.2" x2="747.88" y2="503.2" />
+  <line class="cls-165" x1="103.88" y1="626.98" x2="747.88" y2="626.98" />
+  <line class="cls-165" x1="103.88" y1="696.65" x2="747.88" y2="696.65" />
+  <line class="cls-165" x1="853.88" y1="503.2" x2="1497.88" y2="503.2" />
+  <line class="cls-165" x1="853.88" y1="626.4" x2="1497.88" y2="626.4" />
+  <line class="cls-165" x1="853.88" y1="696.74" x2="1497.88" y2="696.74" />
+  <line class="cls-165" x1="103.88" y1="984.76" x2="747.88" y2="984.76" />
+  <line class="cls-165" x1="103.88" y1="1178.5" x2="747.88" y2="1178.5" />
+  <line class="cls-165" x1="103.88" y1="935.31" x2="747.88" y2="935.31" />
+  <line class="cls-165" x1="103.88" y1="1054.85" x2="747.88" y2="1054.85" />
+  <line class="cls-165" x1="853.88" y1="952.52" x2="1497.88" y2="952.52" />
+  <line class="cls-165" x1="853.88" y1="1028.41" x2="1497.88" y2="1028.41" />
+  <line class="cls-165" x1="853.88" y1="1178.5" x2="1497.88" y2="1178.5" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-48" transform="translate(596.25 531.62)"><tspan class="cls-124" x="0" y="0">ID: </tspan><tspan class="cls-216" x="20.36" y="0">______</tspan><tspan class="cls-124" x="64.01" y="0"> By: </tspan><tspan class="cls-216" x="89.65" y="0">________</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-105" transform="translate(1244.96 386.08)"><tspan class="cls-128" x="0" y="0">ID 数字/序号: </tspan><tspan class="cls-194" x="80.21" y="0">______</tspan><tspan class="cls-128" x="123.85" y="0"> By 由谁提出: </tspan><tspan class="cls-215" x="203.49" y="0">______</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-105" transform="translate(497.25 386.08)"><tspan class="cls-128" x="0" y="0">ID 数字/序号: </tspan><tspan class="cls-194" x="80.21" y="0">______</tspan><tspan class="cls-128" x="123.85" y="0"> By 由谁提出: </tspan><tspan class="cls-215" x="203.49" y="0">______</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-48" transform="translate(597.35 655.3199999999999)"><tspan class="cls-124" x="0" y="0">ID: </tspan><tspan class="cls-216" x="20.36" y="0">______</tspan><tspan class="cls-124" x="64.01" y="0"> By: </tspan><tspan class="cls-216" x="89.65" y="0">________</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-48" transform="translate(1360.19 531.62)"><tspan class="cls-124" x="0" y="0">ID: </tspan><tspan class="cls-216" x="20.36" y="0">______</tspan><tspan class="cls-124" x="64.01" y="0"> By: </tspan><tspan class="cls-216" x="89.65" y="0">______</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <g class="cls-52">
+          <text class="cls-48" transform="translate(1360.19 654.32)"><tspan class="cls-124" x="0" y="0">ID: </tspan><tspan class="cls-216" x="20.36" y="0">______ </tspan><tspan class="cls-124" x="67.94" y="0">By: </tspan><tspan class="cls-216" x="89.98" y="0">______</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect class="cls-157" x="820.88" y="297.84000000000003" width="710" height="468.1" rx="27.5" ry="27.5" />
+  <rect class="cls-161" x="70.88" y="297.84000000000003" width="710" height="468.1" rx="27.5" ry="27.5" />
+  <g id="decision_charter__decision_id" data-field="decision_id"><g data-shared-field="decision_id" data-in-field="true" data-field-box="[186, 199, 110, 30.30000000000001]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "decision_id", "records": [["shared", {"status": "unresolved", "value": "DC1", "alternatives": [{"value": "DC1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="186" y="217" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="white" data-value="true"><tspan x="186" dy="0">DC1</tspan></text></g></g><g id="decision_charter__proposed_by" data-field="proposed_by"><g data-shared-field="proposed_by" data-in-field="true" data-field-box="[447, 199, 94, 30.30000000000001]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "proposed_by", "records": [["shared", {"status": "unresolved", "value": "P1", "alternatives": [{"value": "P1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="447" y="217" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="white" data-value="true"><tspan x="447" dy="0">P1</tspan></text></g></g><g id="decision_charter__decision_statement" data-field="decision_statement"><g data-shared-field="decision_statement" data-in-field="true" data-field-box="[580, 182, 910, 41]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "decision_statement", "records": [["shared", {"status": "unresolved", "value": "是否在一个场地试行兼容人工渠道、可撤销的晚间自习室预约方案。", "alternatives": [{"value": "是否在一个场地试行兼容人工渠道、可撤销的晚间自习室预约方案。", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="580" y="200" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="white" data-value="true"><tspan x="580" dy="0">是否在一个场地试行兼容人工渠道、可撤销的晚间自习室预约方案。</tspan></text></g></g><g id="decision_charter__problem" data-field="problem"><g data-shared-field="problem" data-in-field="true" data-field-box="[104, 399.8, 640, 103.19999999999999]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "problem", "records": [["shared", {"status": "unresolved", "value": null, "alternatives": [{"value": "晚间自习高峰时，学生到场后仍需排队且难以提前判断是否有座位，通勤学生受影响明显。", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}]}, {"value": "晚间自习高峰时，学生到场后仍需排队且难以提前判断是否有座位，通勤学生以及无法稳定依赖手机或电话渠道的学生受影响明显。", "sources": [{"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="104" y="417.8" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="104" dy="0">学生代表：晚间自习高峰时，学生到场后仍需排队且难以提前判断是否有座位</tspan><tspan x="104" dy="24.3">，通勤学生受影响明显。</tspan><tspan x="104" dy="24.3">学生代表：晚间自习高峰时，学生到场后仍需排队且难以提前判断是否有座位</tspan><tspan x="104" dy="24.3">，通勤学生以及无法稳定依赖手机或电话渠道的学生受影响明显。</tspan></text></g></g><g id="decision_charter__training_objective" data-field="training_objective" /><g id="decision_charter__success_evidence" data-field="success_evidence"><g data-shared-field="success_evidence" data-in-field="true" data-field-box="[104, 670.4, 640, 78.89999999999998]" data-entry-ids="E00002" data-entry-id="E00002" tabindex="0" role="button"><title>{"field": "success_evidence", "records": [["shared", {"status": "proposed", "value": "至少验证：到场排队是否减少；空置或占座是否上升；非手机渠道是否能以最少必要信息完成预约、撤销和到场核验；撤销是否能通过同一入口或同等可达入口完成。", "alternatives": [{"value": "至少验证：到场排队是否减少；空置或占座是否上升；非手机渠道是否能以最少必要信息完成预约、撤销和到场核验；撤销是否能通过同一入口或同等可达入口完成。", "sources": [{"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="104" y="688.4" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="104" dy="0">至少验证：到场排队是否减少；空置或占座是否上升；非手机渠道是否能以最</tspan><tspan x="104" dy="24.3">少必要信息完成预约、撤销和到场核验；撤销是否能通过同一入口或同等可达</tspan><tspan x="104" dy="24.3">入口完成。</tspan></text></g></g><g id="decision_charter__users" data-field="users"><g data-shared-field="users" data-in-field="true" data-field-box="[854, 399.8, 640, 103.19999999999999]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "users", "records": [["shared", {"status": "unresolved", "value": null, "alternatives": [{"value": "晚间使用自习空间的学生，尤其通勤本科生。", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}]}, {"value": "晚间使用自习空间的学生，尤其通勤本科生及需要非手机渠道的学生。", "sources": [{"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="854" y="417.8" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="854" dy="0">学生代表：晚间使用自习空间的学生，尤其通勤本科生。</tspan><tspan x="854" dy="24.3">学生代表：晚间使用自习空间的学生，尤其通勤本科生及需要非手机渠道的学</tspan><tspan x="854" dy="24.3">生。</tspan></text></g></g><g id="decision_charter__affected_groups" data-field="affected_groups"><g data-shared-field="affected_groups" data-in-field="true" data-field-box="[854, 546.5, 640, 78.89999999999998]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "affected_groups", "records": [["shared", {"status": "unresolved", "value": null, "alternatives": [{"value": "学生、现场服务人员。", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}]}, {"value": "学生、现场服务人员，以及无法稳定使用手机、依赖辅助技术或不便电话沟通的学生。", "sources": [{"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="854" y="564.5" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="854" dy="0">学生代表：学生、现场服务人员。</tspan><tspan x="854" dy="24.3">学生代表：学生、现场服务人员，以及无法稳定使用手机、依赖辅助技术或不</tspan><tspan x="854" dy="24.3">便电话沟通的学生。</tspan></text></g></g><g id="decision_charter__decision_owner" data-field="decision_owner" /><g id="decision_charter__decision_scope" data-field="decision_scope"><g data-shared-field="decision_scope" data-in-field="true" data-field-box="[104, 913.3, 640, 66.0]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "decision_scope", "records": [["shared", {"status": "unresolved", "value": "仅讨论一个场地的小规模预约试点；不预先承诺新增预算、延长开放时段或开发新手机应用。", "alternatives": [{"value": "仅讨论一个场地的小规模预约试点；不预先承诺新增预算、延长开放时段或开发新手机应用。", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="104" y="931.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="104" dy="0">仅讨论一个场地的小规模预约试点；不预先承诺新增预算、延长开放时段或开</tspan><tspan x="104" dy="24.3">发新手机应用。</tspan></text></g></g><g id="decision_charter__open_alternatives" data-field="open_alternatives"><g data-shared-field="open_alternatives" data-in-field="true" data-field-box="[104, 1031.3, 640, 67.0]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "open_alternatives", "records": [["shared", {"status": "unresolved", "value": "现有门户改造；人工预约/现场排队优化；两者结合；新手机应用暂不作为优先起点。", "alternatives": [{"value": "现有门户改造；人工预约/现场排队优化；两者结合；新手机应用暂不作为优先起点。", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="104" y="1049.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="104" dy="0">现有门户改造；人工预约/现场排队优化；两者结合；新手机应用暂不作为优</tspan><tspan x="104" dy="24.3">先起点。</tspan></text></g></g><g id="decision_charter__deadline" data-field="deadline" /><g id="decision_charter__deployment_stage" data-field="deployment_stage"><g data-shared-field="deployment_stage" data-in-field="true" data-field-box="[854, 992.3, 640, 34.0]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "deployment_stage", "records": [["shared", {"status": "unresolved", "value": "试点", "alternatives": [{"value": "试点", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="854" y="1010.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="854" dy="0">试点</tspan></text></g></g><g id="decision_charter__governance_rule" data-field="governance_rule"><g data-shared-field="governance_rule" data-in-field="true" data-field-box="[854, 1074.3, 640, 103.20000000000005]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "governance_rule", "records": [["shared", {"status": "unresolved", "value": null, "alternatives": [{"value": "保留非手机渠道；预约应可撤销。", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}]}, {"value": "保留非手机渠道；预约应可撤销；非手机渠道仅收最少必要信息，至少包括预约识别信息、预约时段、场地/座位标识，以及用于撤销或到场核验的同一凭据；不要求学生说明行程理由。", "sources": [{"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="854" y="1092.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#302e29" data-value="true"><tspan x="854" dy="0">学生代表：保留非手机渠道；预约应可撤销。</tspan><tspan x="854" dy="24.3">学生代表：保留非手机渠道；预约应可撤销；非手机渠道仅收最少必要信息，</tspan><tspan x="854" dy="24.3">至少包括预约识别信息、预约时段、场地/座位标识，以及用于撤销或到场核</tspan><tspan x="854" dy="24.3">验的同一凭据；不要求学生说明行程理由。</tspan></text></g></g><g id="decision_charter__problem_id" data-field="problem_id"><g data-shared-field="problem_id" data-in-field="true" data-field-box="[586, 364.3, 42, 19.5]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "problem_id", "records": [["shared", {"status": "unresolved", "value": "PR1", "alternatives": [{"value": "PR1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="586" y="374.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="586" dy="0">PR1</tspan></text></g></g><g id="decision_charter__problem_by" data-field="problem_by"><g data-shared-field="problem_by" data-in-field="true" data-field-box="[652, 364.3, 72, 19.5]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "problem_by", "records": [["shared", {"status": "unresolved", "value": "P1", "alternatives": [{"value": "P1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="652" y="374.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="652" dy="0">P1</tspan></text></g></g><g id="decision_charter__training_objective_id" data-field="training_objective_id" /><g id="decision_charter__training_objective_by" data-field="training_objective_by" /><g id="decision_charter__success_evidence_id" data-field="success_evidence_id" /><g id="decision_charter__success_evidence_by" data-field="success_evidence_by" /><g id="decision_charter__users_id" data-field="users_id"><g data-shared-field="users_id" data-in-field="true" data-field-box="[1336, 364.3, 42, 19.5]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "users_id", "records": [["shared", {"status": "unresolved", "value": "U1", "alternatives": [{"value": "U1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="1336" y="374.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="1336" dy="0">U1</tspan></text></g></g><g id="decision_charter__users_by" data-field="users_by"><g data-shared-field="users_by" data-in-field="true" data-field-box="[1402, 364.3, 45, 19.5]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "users_by", "records": [["shared", {"status": "unresolved", "value": "P1", "alternatives": [{"value": "P1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="1402" y="374.3" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="1402" dy="0">P1</tspan></text></g></g><g id="decision_charter__affected_groups_id" data-field="affected_groups_id"><g data-shared-field="affected_groups_id" data-in-field="true" data-field-box="[1386, 515.0, 42, 19.5]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "affected_groups_id", "records": [["shared", {"status": "unresolved", "value": "AG1", "alternatives": [{"value": "AG1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="1386" y="525.0" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="1386" dy="0">AG1</tspan></text></g></g><g id="decision_charter__affected_groups_by" data-field="affected_groups_by"><g data-shared-field="affected_groups_by" data-in-field="true" data-field-box="[1452, 515.0, 45, 19.5]" data-entry-ids="E00001,E00002" data-entry-id="E00001" tabindex="0" role="button"><title>{"field": "affected_groups_by", "records": [["shared", {"status": "unresolved", "value": "P1", "alternatives": [{"value": "P1", "sources": [{"entry_id": "E00001", "participant_id": "P1", "participant_role": "学生代表", "status": "challenged", "supporters": [], "challengers": ["P2"]}, {"entry_id": "E00002", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="1452" y="525.0" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="1452" dy="0">P1</tspan></text></g></g><g id="decision_charter__decision_owner_id" data-field="decision_owner_id" /><g id="decision_charter__decision_owner_by" data-field="decision_owner_by" /><text x="16.88" y="-17" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#544970"><tspan x="16.88" dy="0">共享工具 · 1/1 页 · 作者、支持和质疑可点击查看</tspan></text></svg>

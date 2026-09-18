@@ -1,0 +1,718 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 2184.58 1600 1035.0" width="1600" height="1035.0" id="decision_funnel" data-template-version="f6ad71fb872107a658b3fb3137ef593eaac65608f4043f628a8696379d641714"><defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #d8d6ce;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #f7f7f3;
+      }
+
+      .cls-5 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-88, .cls-89, .cls-90, .cls-91, .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100, .cls-101, .cls-102, .cls-103, .cls-104, .cls-105, .cls-106, .cls-107, .cls-108, .cls-109, .cls-110, .cls-111, .cls-112, .cls-113, .cls-114, .cls-115, .cls-116, .cls-117, .cls-118, .cls-119, .cls-120, .cls-121 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-12, .cls-14, .cls-15, .cls-122, .cls-22, .cls-25, .cls-26, .cls-27, .cls-32, .cls-33, .cls-37, .cls-123, .cls-47, .cls-51, .cls-53, .cls-124, .cls-56, .cls-58, .cls-63, .cls-66, .cls-67, .cls-71, .cls-73, .cls-125, .cls-126, .cls-80, .cls-127, .cls-87, .cls-90, .cls-91, .cls-92, .cls-94, .cls-128, .cls-107, .cls-108, .cls-110, .cls-112, .cls-114, .cls-129, .cls-130 {
+        font-family: 'AlibabaPuHuiTi_3_55_Regular', 'AlibabaPuHuiTi 3 55 Regular', Arial, 'PingFang SC', sans-serif; font-weight: 400;
+        
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-131, .cls-48, .cls-63, .cls-80, .cls-90, .cls-105 {
+        fill: #433e34;
+      }
+
+      .cls-5, .cls-6, .cls-13, .cls-21, .cls-28, .cls-33, .cls-123, .cls-39, .cls-40, .cls-54, .cls-63, .cls-69, .cls-126, .cls-85, .cls-97, .cls-99, .cls-103, .cls-104 {
+        font-size: 14px;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7, .cls-9, .cls-17, .cls-20, .cls-34, .cls-35, .cls-38, .cls-39, .cls-40, .cls-42, .cls-44, .cls-45, .cls-50, .cls-57, .cls-59, .cls-62, .cls-64, .cls-65, .cls-69, .cls-70, .cls-79, .cls-82, .cls-86, .cls-88, .cls-89, .cls-93, .cls-96, .cls-98, .cls-101, .cls-111, .cls-116, .cls-119, .cls-120 {
+        font-family: 'AlibabaPuHuiTi_3_85_Bold', 'AlibabaPuHuiTi 3 85 Bold', Arial, 'PingFang SC', sans-serif; font-weight: 700;
+        
+      }
+
+      .cls-7, .cls-122, .cls-32, .cls-35, .cls-36, .cls-58, .cls-89, .cls-94 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-40, .cls-86, .cls-111, .cls-132 {
+        fill: #494b1c;
+      }
+
+      .cls-133, .cls-134, .cls-135, .cls-27, .cls-28, .cls-136, .cls-35, .cls-36, .cls-47, .cls-137, .cls-138, .cls-68, .cls-76, .cls-77, .cls-78, .cls-81, .cls-139, .cls-106, .cls-140, .cls-109 {
+        fill: #221f1b;
+      }
+
+      .cls-133, .cls-17, .cls-18, .cls-24, .cls-38, .cls-50, .cls-59, .cls-64, .cls-79, .cls-86, .cls-93, .cls-96 {
+        font-size: 20px;
+      }
+
+      .cls-133, .cls-135, .cls-137, .cls-138, .cls-55, .cls-141, .cls-78, .cls-81, .cls-84, .cls-139, .cls-113 {
+        font-family: 'AlibabaPuHuiTi_3_45_Light', 'AlibabaPuHuiTi 3 45 Light', Arial, 'PingFang SC', sans-serif; font-weight: 300;
+        
+      }
+
+      .cls-8, .cls-142, .cls-29, .cls-46, .cls-72, .cls-114, .cls-143 {
+        fill: #69655d;
+      }
+
+      .cls-8, .cls-10, .cls-27, .cls-37, .cls-48, .cls-68, .cls-73, .cls-83, .cls-105, .cls-109, .cls-111, .cls-112, .cls-119 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-24, .cls-28, .cls-29, .cls-30, .cls-31, .cls-36, .cls-41, .cls-43, .cls-46, .cls-49, .cls-54, .cls-104, .cls-140, .cls-117 {
+        font-family: 'AlibabaPuHuiTi_3_65_Medium', 'AlibabaPuHuiTi 3 65 Medium', Arial, 'PingFang SC', sans-serif; font-weight: 500;
+        
+      }
+
+      .cls-9 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9, .cls-16, .cls-57, .cls-130 {
+        font-size: 17px;
+      }
+
+      .cls-9, .cls-56, .cls-65, .cls-116 {
+        fill: #1d1915;
+      }
+
+      .cls-144, .cls-15, .cls-16, .cls-18, .cls-145, .cls-122, .cls-21, .cls-24, .cls-33, .cls-123, .cls-43, .cls-44, .cls-2, .cls-146, .cls-147, .cls-148, .cls-50, .cls-51, .cls-54, .cls-58, .cls-60, .cls-149, .cls-150, .cls-151, .cls-71, .cls-73, .cls-152, .cls-127, .cls-94, .cls-153, .cls-100, .cls-101, .cls-110, .cls-113, .cls-154, .cls-155, .cls-121, .cls-129, .cls-130 {
+        fill: #fff;
+      }
+
+      .cls-144, .cls-145, .cls-2, .cls-146, .cls-147, .cls-148, .cls-156, .cls-157, .cls-149, .cls-152, .cls-158, .cls-159, .cls-160, .cls-3, .cls-161 {
+        stroke-width: 2px;
+      }
+
+      .cls-144, .cls-162, .cls-163, .cls-164, .cls-165, .cls-166, .cls-160 {
+        stroke: #6c685f;
+      }
+
+      .cls-167, .cls-14, .cls-34, .cls-57 {
+        fill: #6d685f;
+      }
+
+      .cls-142 {
+        font-family: PingFangHK-Semibold-B5pc-H, 'PingFang HK';
+        font-size: 11.72px;
+        font-weight: 600;
+      }
+
+      .cls-11 {
+        opacity: .49;
+      }
+
+      .cls-12, .cls-25, .cls-26, .cls-29, .cls-41, .cls-66, .cls-67, .cls-72, .cls-91, .cls-92, .cls-107, .cls-108 {
+        font-size: 11px;
+      }
+
+      .cls-12, .cls-31, .cls-39, .cls-41, .cls-55, .cls-141, .cls-84, .cls-97, .cls-112, .cls-168, .cls-115, .cls-118 {
+        fill: #403b30;
+      }
+
+      .cls-13, .cls-21, .cls-23, .cls-85, .cls-97, .cls-99, .cls-103 {
+        font-family: 'AlibabaPuHuiTi_3_35_Thin', 'AlibabaPuHuiTi 3 35 Thin', Arial, 'PingFang SC', sans-serif; font-weight: 200;
+        
+      }
+
+      .cls-13, .cls-42, .cls-169, .cls-170, .cls-64 {
+        fill: #727622;
+      }
+
+      .cls-14, .cls-20, .cls-135, .cls-34, .cls-42, .cls-45, .cls-49, .cls-56, .cls-60, .cls-62, .cls-70, .cls-81, .cls-88, .cls-102, .cls-140 {
+        font-size: 18px;
+      }
+
+      .cls-15, .cls-22 {
+        font-size: 10.16px;
+      }
+
+      .cls-16, .cls-19, .cls-77, .cls-121 {
+        font-family: 'AlibabaPuHuiTi_3_95_ExtraBold', 'AlibabaPuHuiTi 3 95 ExtraBold', Arial, 'PingFang SC', sans-serif; font-weight: 800;
+        
+      }
+
+      .cls-17, .cls-59, .cls-70, .cls-171 {
+        fill: #343f8b;
+      }
+
+      .cls-18, .cls-60, .cls-102 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-19 {
+        fill: #4a4c22;
+      }
+
+      .cls-19, .cls-77, .cls-116, .cls-121 {
+        font-size: 24px;
+      }
+
+      .cls-20, .cls-172, .cls-69, .cls-82, .cls-89, .cls-102 {
+        fill: #413c31;
+      }
+
+      .cls-145, .cls-161 {
+        stroke: #72751f;
+      }
+
+      .cls-22 {
+        fill: #eeece5;
+      }
+
+      .cls-23, .cls-31, .cls-46 {
+        font-size: 13px;
+      }
+
+      .cls-23, .cls-173, .cls-103 {
+        fill: #1e1a33;
+      }
+
+      .cls-25, .cls-26, .cls-174 {
+        fill: #34449b;
+      }
+
+      .cls-25, .cls-66, .cls-91, .cls-108 {
+        letter-spacing: .06em;
+      }
+
+      .cls-26, .cls-67, .cls-92, .cls-107 {
+        letter-spacing: .06em;
+      }
+
+      .cls-30, .cls-43, .cls-55, .cls-78, .cls-106, .cls-120 {
+        font-size: 15px;
+      }
+
+      .cls-175 {
+        stroke: #6d685f;
+      }
+
+      .cls-175, .cls-176, .cls-177, .cls-169, .cls-178, .cls-153, .cls-159, .cls-179, .cls-154, .cls-155 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-175, .cls-176, .cls-156, .cls-162, .cls-157, .cls-180, .cls-158, .cls-95, .cls-159, .cls-164, .cls-165, .cls-179, .cls-166, .cls-160, .cls-3, .cls-161 {
+        fill: none;
+      }
+
+      .cls-181, .cls-38, .cls-88 {
+        fill: #e89c6a;
+      }
+
+      .cls-32 {
+        fill: #6c685f;
+      }
+
+      .cls-136, .cls-68, .cls-76 {
+        font-family: 'AlibabaPuHuiTi_3_115_Black', 'AlibabaPuHuiTi 3 115 Black', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-136, .cls-76 {
+        font-size: 41px;
+      }
+
+      .cls-182 {
+        fill: #dcd3f1;
+      }
+
+      .cls-182, .cls-183, .cls-184, .cls-150, .cls-185, .cls-186 {
+        stroke: #c9c6bc;
+      }
+
+      .cls-37, .cls-49, .cls-53, .cls-125, .cls-83, .cls-87, .cls-104, .cls-117, .cls-119 {
+        fill: #6c685f;
+      }
+
+      .cls-187 {
+        fill: #72751f;
+      }
+
+      .cls-188, .cls-74 {
+        fill: #e79a6a;
+      }
+
+      .cls-176, .cls-177, .cls-154 {
+        stroke: #1e1a33;
+      }
+
+      .cls-176, .cls-165 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-189, .cls-75 {
+        fill: #dfe39a;
+      }
+
+      .cls-177 {
+        fill: #463789;
+      }
+
+      .cls-177, .cls-169, .cls-178, .cls-153, .cls-154, .cls-155 {
+        stroke-width: 5px;
+      }
+
+      .cls-190, .cls-45, .cls-96, .cls-120 {
+        fill: #e0e49c;
+      }
+
+      .cls-191 {
+        fill: #a20f0f;
+      }
+
+      .cls-44, .cls-47, .cls-138, .cls-65, .cls-125, .cls-87, .cls-110 {
+        font-size: 21px;
+      }
+
+      .cls-192 {
+        fill: #faebdd;
+      }
+
+      .cls-146, .cls-180, .cls-95 {
+        stroke: #fff;
+      }
+
+      .cls-193 {
+        fill: #a51332;
+      }
+
+      .cls-147 {
+        stroke: #37418a;
+      }
+
+      .cls-148 {
+        stroke: #e79a6a;
+      }
+
+      .cls-169, .cls-153 {
+        stroke: #23351a;
+      }
+
+      .cls-156, .cls-149, .cls-158 {
+        stroke: #d9d8d1;
+      }
+
+      .cls-48, .cls-128, .cls-194 {
+        letter-spacing: .05em;
+      }
+
+      .cls-195, .cls-184 {
+        fill: #f1f0ec;
+      }
+
+      .cls-196 {
+        fill: #787b00;
+      }
+
+      .cls-137 {
+        font-size: 23.13px;
+      }
+
+      .cls-51 {
+        font-size: 14.06px;
+      }
+
+      .cls-53 {
+        font-size: 9.07px;
+      }
+
+      .cls-183 {
+        fill: #f2d4b9;
+      }
+
+      .cls-178, .cls-197 {
+        fill: #eda56e;
+      }
+
+      .cls-178, .cls-155 {
+        stroke: #603c15;
+      }
+
+      .cls-198 {
+        fill: #f1f2df;
+      }
+
+      .cls-163, .cls-164 {
+        stroke-width: 1.4px;
+      }
+
+      .cls-199 {
+        fill: #f6f8f4;
+      }
+
+      .cls-157, .cls-152 {
+        stroke: #654fad;
+      }
+
+      .cls-200 {
+        fill: #654fad;
+      }
+
+      .cls-59, .cls-86, .cls-93 {
+        letter-spacing: .02em;
+      }
+
+      .cls-61, .cls-201 {
+        fill: #a797dd;
+      }
+
+      .cls-61, .cls-75 {
+        opacity: .45;
+      }
+
+      .cls-202 {
+        stroke: #433e34;
+      }
+
+      .cls-202, .cls-203 {
+        fill: #edebe6;
+      }
+
+      .cls-62, .cls-79, .cls-93, .cls-204 {
+        fill: #654eaf;
+      }
+
+      .cls-205 {
+        fill: #37418a;
+      }
+
+      .cls-66, .cls-67, .cls-206 {
+        fill: #777a13;
+      }
+
+      .cls-71 {
+        font-size: 9.12px;
+      }
+
+      .cls-72 {
+        font-family: PingFangSC-Regular-GBpc-EUC-H, 'PingFang SC';
+      }
+
+      .cls-180 {
+        stroke-linejoin: round;
+        stroke-width: 2.88px;
+      }
+
+      .cls-180, .cls-158 {
+        stroke-linecap: round;
+      }
+
+      .cls-74 {
+        opacity: .22;
+      }
+
+      .cls-207 {
+        fill: #f9f4f4;
+      }
+
+      .cls-141, .cls-84 {
+        font-size: 11.56px;
+      }
+
+      .cls-208, .cls-91, .cls-92 {
+        fill: #674db7;
+      }
+
+      .cls-209 {
+        fill: #d94a4a;
+      }
+
+      .cls-80 {
+        font-size: 10px;
+      }
+
+      .cls-82, .cls-98, .cls-101 {
+        font-size: 22px;
+      }
+
+      .cls-83, .cls-109 {
+        font-family: 'AlibabaPuHuiTi_3_105_Heavy', 'AlibabaPuHuiTi 3 105 Heavy', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-85, .cls-210 {
+        fill: #f08c4d;
+      }
+
+      .cls-127 {
+        font-size: 12.5px;
+      }
+
+      .cls-139 {
+        font-size: 23px;
+      }
+
+      .cls-90 {
+        font-size: 7.71px;
+        letter-spacing: .05em;
+      }
+
+      .cls-94 {
+        letter-spacing: .01em;
+      }
+
+      .cls-211, .cls-107, .cls-108 {
+        fill: #e99760;
+      }
+
+      .cls-95 {
+        opacity: .8;
+      }
+
+      .cls-159 {
+        stroke: #000;
+      }
+
+      .cls-99 {
+        fill: #b44545;
+      }
+
+      .cls-100 {
+        font-size: 13.28px;
+      }
+
+      .cls-100, .cls-106 {
+        font-family: 'AlibabaPuHuiTi_3_75_SemiBold', 'AlibabaPuHuiTi 3 75 SemiBold', Arial, 'PingFang SC', sans-serif; font-weight: 600;
+        
+      }
+
+      .cls-212 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-213 {
+        fill: #edece7;
+      }
+
+      .cls-185 {
+        fill: #dce5a3;
+      }
+
+      .cls-179 {
+        stroke: #403b30;
+        stroke-width: .75px;
+      }
+
+      .cls-186 {
+        fill: #f1c6c6;
+      }
+
+      .cls-113 {
+        font-size: 30px;
+      }
+
+      .cls-114 {
+        font-size: 8.59px;
+      }
+
+      .cls-115 {
+        font-size: 11.84px;
+      }
+
+      .cls-115, .cls-118 {
+        font-family: AdobeMingStd-Light-B5pc-H, 'Adobe Ming Std';
+        font-weight: 300;
+      }
+
+      .cls-214 {
+        fill: #f0ecfa;
+      }
+
+      .cls-194, .cls-215, .cls-216 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-215 {
+        letter-spacing: .05em;
+      }
+
+      .cls-166 {
+        stroke-dasharray: 8 8;
+      }
+
+      .cls-117 {
+        font-size: 14.7px;
+      }
+
+      .cls-217 {
+        fill: #e9ecf8;
+      }
+
+      .cls-118 {
+        font-size: 11.72px;
+      }
+
+      .cls-218 {
+        letter-spacing: .03em;
+      }
+
+      .cls-129 {
+        font-size: 19.85px;
+      }
+
+      .cls-219 {
+        letter-spacing: .01em;
+      }
+
+      .cls-220 {
+        fill: #63a51c;
+      }
+
+      .cls-221 {
+        fill: #6c4bb8;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" y="2219.58" width="1600" height="1000.0" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-76" transform="translate(73.71 2295.72)"><tspan x="0" y="0">Boundary and Conflict Decision Funnel</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-76" transform="translate(897.75 2295.72)"><tspan x="0" y="0">边界与冲突决策漏斗</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-87" transform="translate(73.71 2346.76)"><tspan x="0" y="0">Check hard rules and practical limits before comparing preferences.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-87" transform="translate(773.77 2346.76)"><tspan x="0" y="0">先检查硬性底线和实际限制，再比较各方偏好</tspan></text>
+    </g>
+  </g>
+  <g>
+    <path class="cls-201" d="M197.42 2381.38H1525.48L1454.71 2485.61H268.19L197.42000000000002 2381.38Z" />
+    <path class="cls-205" d="M268.19 2502.98H1454.71L1383.94 2607.21H338.96L268.19 2502.98Z" />
+    <path class="cls-188" d="M338.96 2624.58H1383.94L1313.17 2728.81H409.73L338.96000000000004 2624.58Z" />
+    <path class="cls-189" d="M409.73 2746.18H1313.17L1242.4 2850.41H480.49L409.72 2746.18H409.73Z" />
+    <path class="cls-201" d="M480.49 2867.78H1242.4L1176.3500000000001 2967.6600000000003H546.5500000000002L480.50000000000017 2867.78H480.4900000000002Z" />
+    <path class="cls-189" d="M546.55 2985.03H1176.35L1117.9499999999998 3089.26H607.1399999999999L546.5499999999998 2985.03Z" />
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(814.48 2401.28)"><tspan x="0" y="0">ALL OPTIONS</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(831.93 2422.45)"><tspan x="0" y="0">所有方案</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-43" transform="translate(748.91 2524.27)"><tspan x="0" y="0">MUST-PASS SAFEGUARD CHECK</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-43" transform="translate(758.13 2545.43)"><tspan x="0" y="0">硬性底线检查（未通过即淘汰）</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(794.03 2646.82)"><tspan x="0" y="0">FEASIBILITY CHECK</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(779.84 2765.75)"><tspan x="0" y="0">OPTIONS THAT PASSED</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(809.79 2786.92)"><tspan x="0" y="0">通过检查的方案</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(695.51 2896.05)"><tspan x="0" y="0">OPTIONAL: REMOVE CLEARLY WORSE OPTIONS</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(772.89 2917.21)"><tspan x="0" y="0">可选：删除全面更差的方案</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(717.35 3012.36)"><tspan x="0" y="0">COMPARE REMAINING OPTIONS BY ROLE</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-30" transform="translate(772.89 3033.52)"><tspan x="0" y="0">不同角色分别比较剩余方案</tspan></text>
+  </g>
+  <rect class="cls-151" x="610.63" y="3047.35" width="505.26" height="35.19999999999982" rx="17.6" ry="17.6" />
+  <line class="cls-162" x1="619.98" y1="3076.76" x2="1106.55" y2="3076.76" />
+  <rect class="cls-151" x="545.91" y="2927.19" width="634.7" height="35.19999999999982" rx="17.6" ry="17.6" />
+  <line class="cls-162" x1="557.65" y1="2956.6" x2="1168.87" y2="2956.6" />
+  <rect class="cls-151" x="479.34" y="2807.03" width="767.84" height="35.19999999999982" rx="17.6" ry="17.6" />
+  <line class="cls-162" x1="493.55" y1="2836.44" x2="1232.97" y2="2836.44" />
+  <rect class="cls-151" x="408.02" y="2681.09" width="910.47" height="35.19999999999982" rx="17.6" ry="17.6" />
+  <line class="cls-162" x1="424.87" y1="2710.5" x2="1301.65" y2="2710.5" />
+  <rect class="cls-151" x="336.7" y="2562.11" width="1053.11" height="35.19999999999982" rx="17.6" ry="17.6" />
+  <line class="cls-162" x1="356.19" y1="2591.52" x2="1370.33" y2="2591.52" />
+  <rect class="cls-151" x="265.38" y="2443.13" width="1195.75" height="35.19999999999982" rx="17.6" ry="17.6" />
+  <line class="cls-162" x1="287.51" y1="2472.54" x2="1439.01" y2="2472.54" />
+  <path class="cls-131" d="M873.76 2485.61 866.2 2500.73 858.6400000000001 2485.61H873.7600000000001Z" />
+  <path class="cls-131" d="M873.17 2607.43 865.61 2622.5499999999997 858.0500000000001 2607.43H873.1700000000001Z" />
+  <path class="cls-131" d="M873.76 2728.81 866.2 2743.93 858.6400000000001 2728.81H873.7600000000001Z" />
+  <path class="cls-131" d="M873.76 2850.4 866.2 2865.52 858.6400000000001 2850.4H873.7600000000001Z" />
+  <path class="cls-131" d="M873.76 2967.66 866.2 2982.7799999999997 858.6400000000001 2967.66H873.7600000000001Z" />
+  <rect class="cls-144" x="74.31" y="2381.38" width="109.62" height="707.8699999999999" rx="28.54" ry="28.54" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-117" transform="translate(83.9 2413.64)"><tspan x="0" y="0">CONFLICT IDs</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-117" transform="translate(100.62 2434.8)"><tspan x="0" y="0">冲突编号</tspan></text>
+    </g>
+  </g>
+  <line class="cls-160" x1="128.74" y1="2460.73" x2="128.74" y2="3076.76" />
+  <circle class="cls-152" cx="128.74" cy="2497.65" r="18.14" />
+  <circle class="cls-152" cx="128.74" cy="2632.53" r="18.14" />
+  <circle class="cls-152" cx="128.74" cy="2767.4" r="18.14" />
+  <circle class="cls-152" cx="128.74" cy="2902.27" r="18.14" />
+  <circle class="cls-152" cx="128.74" cy="3037.14" r="18.14" />
+  <g class="cls-52">
+    <text class="cls-53" transform="translate(114.11 2499.87)"><tspan x="0" y="0">ID: ___</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-53" transform="translate(114.11 2635.36)"><tspan x="0" y="0">ID: ___</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-53" transform="translate(114.11 2771.53)"><tspan x="0" y="0">ID: ___</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-53" transform="translate(114.11 2905.21)"><tspan x="0" y="0">ID: ___</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-53" transform="translate(114.11 3039.56)"><tspan x="0" y="0">ID: ___</tspan></text>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-49" transform="translate(73.71 3148.35)"><tspan x="0" y="0">Fill in the option names, hard rules, practical limits, and conflict IDs.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-49" transform="translate(687.78 3148.35)"><tspan x="0" y="0">填写方案名称、硬性底线、实际限制和冲突编号。</tspan></text>
+    </g>
+  </g>
+  <g class="cls-11" data-placeholder-for="safeguard_check">
+    <text class="cls-32" transform="translate(936.45 2586.01)"><tspan x="0" y="0">图7 决策检查中的必须通过部分</tspan></text>
+  </g>
+  <g class="cls-11" data-placeholder-for="safeguard_check">
+    <text class="cls-32" transform="translate(571.33 2586.01)"><tspan x="0" y="0">Figure 7 Must Pass section in Decision Checks</tspan></text>
+  </g>
+  <g class="cls-11" data-placeholder-for="feasibility_check">
+    <text class="cls-32" transform="translate(924.1 2706.03)"><tspan x="0" y="0">图7 决策检查中的可行性限制部分</tspan></text>
+  </g>
+  <g class="cls-11" data-placeholder-for="feasibility_check">
+    <text class="cls-32" transform="translate(572.13 2706.03)"><tspan x="0" y="0">Figure 7 Must Fit section in Decision Checks</tspan></text>
+  </g>
+  <g class="cls-11" data-placeholder-for="dominated_options">
+    <text class="cls-32" transform="translate(933.86 2950.07)"><tspan x="0" y="0">图7 决策检查中的可取舍偏好部分</tspan></text>
+  </g>
+  <g class="cls-11" data-placeholder-for="dominated_options">
+    <text class="cls-32" transform="translate(563.86 2950.07)"><tspan x="0" y="0">Figure 7 May Trade section in Decision Checks</tspan></text>
+  </g>
+  <g class="cls-11" data-placeholder-for="role_comparison">
+    <text class="cls-32" transform="translate(745.34 3069.79)"><tspan x="0" y="0">Continued from Figure 9  接图9</tspan></text>
+  </g>
+  <g id="decision_funnel__all_options" data-field="all_options" /><g id="decision_funnel__safeguard_check" data-field="safeguard_check" /><g id="decision_funnel__feasibility_check" data-field="feasibility_check" /><g id="decision_funnel__passed_options" data-field="passed_options" /><g id="decision_funnel__dominated_options" data-field="dominated_options" /><g id="decision_funnel__role_comparison" data-field="role_comparison" /><g id="decision_funnel__conflict_id_1" data-field="conflict_id_1" /><g id="decision_funnel__conflict_id_2" data-field="conflict_id_2" /><g id="decision_funnel__conflict_id_3" data-field="conflict_id_3" /><g id="decision_funnel__conflict_id_4" data-field="conflict_id_4" /><g id="decision_funnel__conflict_id_5" data-field="conflict_id_5" /><text x="16" y="2202.58" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#544970"><tspan x="16" dy="0">共享工具 · 1/1 页 · 作者、支持和质疑可点击查看</tspan></text></svg>
