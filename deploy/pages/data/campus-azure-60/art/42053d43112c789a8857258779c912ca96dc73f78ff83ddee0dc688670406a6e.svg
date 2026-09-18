@@ -1,0 +1,828 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 3271.55 1600 1032.0900000000001" width="1600" height="1032.0900000000001" id="conflict_resolution" data-template-version="f6ad71fb872107a658b3fb3137ef593eaac65608f4043f628a8696379d641714"><defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #d8d6ce;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #f7f7f3;
+      }
+
+      .cls-5 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-88, .cls-89, .cls-90, .cls-91, .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100, .cls-101, .cls-102, .cls-103, .cls-104, .cls-105, .cls-106, .cls-107, .cls-108, .cls-109, .cls-110, .cls-111, .cls-112, .cls-113, .cls-114, .cls-115, .cls-116, .cls-117, .cls-118, .cls-119, .cls-120, .cls-121 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-12, .cls-14, .cls-15, .cls-122, .cls-22, .cls-25, .cls-26, .cls-27, .cls-32, .cls-33, .cls-37, .cls-123, .cls-47, .cls-51, .cls-53, .cls-124, .cls-56, .cls-58, .cls-63, .cls-66, .cls-67, .cls-71, .cls-73, .cls-125, .cls-126, .cls-80, .cls-127, .cls-87, .cls-90, .cls-91, .cls-92, .cls-94, .cls-128, .cls-107, .cls-108, .cls-110, .cls-112, .cls-114, .cls-129, .cls-130 {
+        font-family: 'AlibabaPuHuiTi_3_55_Regular', 'AlibabaPuHuiTi 3 55 Regular', Arial, 'PingFang SC', sans-serif; font-weight: 400;
+        
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-131, .cls-48, .cls-63, .cls-80, .cls-90, .cls-105 {
+        fill: #433e34;
+      }
+
+      .cls-5, .cls-6, .cls-13, .cls-21, .cls-28, .cls-33, .cls-123, .cls-39, .cls-40, .cls-54, .cls-63, .cls-69, .cls-126, .cls-85, .cls-97, .cls-99, .cls-103, .cls-104 {
+        font-size: 14px;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7, .cls-9, .cls-17, .cls-20, .cls-34, .cls-35, .cls-38, .cls-39, .cls-40, .cls-42, .cls-44, .cls-45, .cls-50, .cls-57, .cls-59, .cls-62, .cls-64, .cls-65, .cls-69, .cls-70, .cls-79, .cls-82, .cls-86, .cls-88, .cls-89, .cls-93, .cls-96, .cls-98, .cls-101, .cls-111, .cls-116, .cls-119, .cls-120 {
+        font-family: 'AlibabaPuHuiTi_3_85_Bold', 'AlibabaPuHuiTi 3 85 Bold', Arial, 'PingFang SC', sans-serif; font-weight: 700;
+        
+      }
+
+      .cls-7, .cls-122, .cls-32, .cls-35, .cls-36, .cls-58, .cls-89, .cls-94 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-40, .cls-86, .cls-111, .cls-132 {
+        fill: #494b1c;
+      }
+
+      .cls-133, .cls-134, .cls-135, .cls-27, .cls-28, .cls-136, .cls-35, .cls-36, .cls-47, .cls-137, .cls-138, .cls-68, .cls-76, .cls-77, .cls-78, .cls-81, .cls-139, .cls-106, .cls-140, .cls-109 {
+        fill: #221f1b;
+      }
+
+      .cls-133, .cls-17, .cls-18, .cls-24, .cls-38, .cls-50, .cls-59, .cls-64, .cls-79, .cls-86, .cls-93, .cls-96 {
+        font-size: 20px;
+      }
+
+      .cls-133, .cls-135, .cls-137, .cls-138, .cls-55, .cls-141, .cls-78, .cls-81, .cls-84, .cls-139, .cls-113 {
+        font-family: 'AlibabaPuHuiTi_3_45_Light', 'AlibabaPuHuiTi 3 45 Light', Arial, 'PingFang SC', sans-serif; font-weight: 300;
+        
+      }
+
+      .cls-8, .cls-142, .cls-29, .cls-46, .cls-72, .cls-114, .cls-143 {
+        fill: #69655d;
+      }
+
+      .cls-8, .cls-10, .cls-27, .cls-37, .cls-48, .cls-68, .cls-73, .cls-83, .cls-105, .cls-109, .cls-111, .cls-112, .cls-119 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-24, .cls-28, .cls-29, .cls-30, .cls-31, .cls-36, .cls-41, .cls-43, .cls-46, .cls-49, .cls-54, .cls-104, .cls-140, .cls-117 {
+        font-family: 'AlibabaPuHuiTi_3_65_Medium', 'AlibabaPuHuiTi 3 65 Medium', Arial, 'PingFang SC', sans-serif; font-weight: 500;
+        
+      }
+
+      .cls-9 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9, .cls-16, .cls-57, .cls-130 {
+        font-size: 17px;
+      }
+
+      .cls-9, .cls-56, .cls-65, .cls-116 {
+        fill: #1d1915;
+      }
+
+      .cls-144, .cls-15, .cls-16, .cls-18, .cls-145, .cls-122, .cls-21, .cls-24, .cls-33, .cls-123, .cls-43, .cls-44, .cls-2, .cls-146, .cls-147, .cls-148, .cls-50, .cls-51, .cls-54, .cls-58, .cls-60, .cls-149, .cls-150, .cls-151, .cls-71, .cls-73, .cls-152, .cls-127, .cls-94, .cls-153, .cls-100, .cls-101, .cls-110, .cls-113, .cls-154, .cls-155, .cls-121, .cls-129, .cls-130 {
+        fill: #fff;
+      }
+
+      .cls-144, .cls-145, .cls-2, .cls-146, .cls-147, .cls-148, .cls-156, .cls-157, .cls-149, .cls-152, .cls-158, .cls-159, .cls-160, .cls-3, .cls-161 {
+        stroke-width: 2px;
+      }
+
+      .cls-144, .cls-162, .cls-163, .cls-164, .cls-165, .cls-166, .cls-160 {
+        stroke: #6c685f;
+      }
+
+      .cls-167, .cls-14, .cls-34, .cls-57 {
+        fill: #6d685f;
+      }
+
+      .cls-142 {
+        font-family: PingFangHK-Semibold-B5pc-H, 'PingFang HK';
+        font-size: 11.72px;
+        font-weight: 600;
+      }
+
+      .cls-11 {
+        opacity: .49;
+      }
+
+      .cls-12, .cls-25, .cls-26, .cls-29, .cls-41, .cls-66, .cls-67, .cls-72, .cls-91, .cls-92, .cls-107, .cls-108 {
+        font-size: 11px;
+      }
+
+      .cls-12, .cls-31, .cls-39, .cls-41, .cls-55, .cls-141, .cls-84, .cls-97, .cls-112, .cls-168, .cls-115, .cls-118 {
+        fill: #403b30;
+      }
+
+      .cls-13, .cls-21, .cls-23, .cls-85, .cls-97, .cls-99, .cls-103 {
+        font-family: 'AlibabaPuHuiTi_3_35_Thin', 'AlibabaPuHuiTi 3 35 Thin', Arial, 'PingFang SC', sans-serif; font-weight: 200;
+        
+      }
+
+      .cls-13, .cls-42, .cls-169, .cls-170, .cls-64 {
+        fill: #727622;
+      }
+
+      .cls-14, .cls-20, .cls-135, .cls-34, .cls-42, .cls-45, .cls-49, .cls-56, .cls-60, .cls-62, .cls-70, .cls-81, .cls-88, .cls-102, .cls-140 {
+        font-size: 18px;
+      }
+
+      .cls-15, .cls-22 {
+        font-size: 10.16px;
+      }
+
+      .cls-16, .cls-19, .cls-77, .cls-121 {
+        font-family: 'AlibabaPuHuiTi_3_95_ExtraBold', 'AlibabaPuHuiTi 3 95 ExtraBold', Arial, 'PingFang SC', sans-serif; font-weight: 800;
+        
+      }
+
+      .cls-17, .cls-59, .cls-70, .cls-171 {
+        fill: #343f8b;
+      }
+
+      .cls-18, .cls-60, .cls-102 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-19 {
+        fill: #4a4c22;
+      }
+
+      .cls-19, .cls-77, .cls-116, .cls-121 {
+        font-size: 24px;
+      }
+
+      .cls-20, .cls-172, .cls-69, .cls-82, .cls-89, .cls-102 {
+        fill: #413c31;
+      }
+
+      .cls-145, .cls-161 {
+        stroke: #72751f;
+      }
+
+      .cls-22 {
+        fill: #eeece5;
+      }
+
+      .cls-23, .cls-31, .cls-46 {
+        font-size: 13px;
+      }
+
+      .cls-23, .cls-173, .cls-103 {
+        fill: #1e1a33;
+      }
+
+      .cls-25, .cls-26, .cls-174 {
+        fill: #34449b;
+      }
+
+      .cls-25, .cls-66, .cls-91, .cls-108 {
+        letter-spacing: .06em;
+      }
+
+      .cls-26, .cls-67, .cls-92, .cls-107 {
+        letter-spacing: .06em;
+      }
+
+      .cls-30, .cls-43, .cls-55, .cls-78, .cls-106, .cls-120 {
+        font-size: 15px;
+      }
+
+      .cls-175 {
+        stroke: #6d685f;
+      }
+
+      .cls-175, .cls-176, .cls-177, .cls-169, .cls-178, .cls-153, .cls-159, .cls-179, .cls-154, .cls-155 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-175, .cls-176, .cls-156, .cls-162, .cls-157, .cls-180, .cls-158, .cls-95, .cls-159, .cls-164, .cls-165, .cls-179, .cls-166, .cls-160, .cls-3, .cls-161 {
+        fill: none;
+      }
+
+      .cls-181, .cls-38, .cls-88 {
+        fill: #e89c6a;
+      }
+
+      .cls-32 {
+        fill: #6c685f;
+      }
+
+      .cls-136, .cls-68, .cls-76 {
+        font-family: 'AlibabaPuHuiTi_3_115_Black', 'AlibabaPuHuiTi 3 115 Black', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-136, .cls-76 {
+        font-size: 41px;
+      }
+
+      .cls-182 {
+        fill: #dcd3f1;
+      }
+
+      .cls-182, .cls-183, .cls-184, .cls-150, .cls-185, .cls-186 {
+        stroke: #c9c6bc;
+      }
+
+      .cls-37, .cls-49, .cls-53, .cls-125, .cls-83, .cls-87, .cls-104, .cls-117, .cls-119 {
+        fill: #6c685f;
+      }
+
+      .cls-187 {
+        fill: #72751f;
+      }
+
+      .cls-188, .cls-74 {
+        fill: #e79a6a;
+      }
+
+      .cls-176, .cls-177, .cls-154 {
+        stroke: #1e1a33;
+      }
+
+      .cls-176, .cls-165 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-189, .cls-75 {
+        fill: #dfe39a;
+      }
+
+      .cls-177 {
+        fill: #463789;
+      }
+
+      .cls-177, .cls-169, .cls-178, .cls-153, .cls-154, .cls-155 {
+        stroke-width: 5px;
+      }
+
+      .cls-190, .cls-45, .cls-96, .cls-120 {
+        fill: #e0e49c;
+      }
+
+      .cls-191 {
+        fill: #a20f0f;
+      }
+
+      .cls-44, .cls-47, .cls-138, .cls-65, .cls-125, .cls-87, .cls-110 {
+        font-size: 21px;
+      }
+
+      .cls-192 {
+        fill: #faebdd;
+      }
+
+      .cls-146, .cls-180, .cls-95 {
+        stroke: #fff;
+      }
+
+      .cls-193 {
+        fill: #a51332;
+      }
+
+      .cls-147 {
+        stroke: #37418a;
+      }
+
+      .cls-148 {
+        stroke: #e79a6a;
+      }
+
+      .cls-169, .cls-153 {
+        stroke: #23351a;
+      }
+
+      .cls-156, .cls-149, .cls-158 {
+        stroke: #d9d8d1;
+      }
+
+      .cls-48, .cls-128, .cls-194 {
+        letter-spacing: .05em;
+      }
+
+      .cls-195, .cls-184 {
+        fill: #f1f0ec;
+      }
+
+      .cls-196 {
+        fill: #787b00;
+      }
+
+      .cls-137 {
+        font-size: 23.13px;
+      }
+
+      .cls-51 {
+        font-size: 14.06px;
+      }
+
+      .cls-53 {
+        font-size: 9.07px;
+      }
+
+      .cls-183 {
+        fill: #f2d4b9;
+      }
+
+      .cls-178, .cls-197 {
+        fill: #eda56e;
+      }
+
+      .cls-178, .cls-155 {
+        stroke: #603c15;
+      }
+
+      .cls-198 {
+        fill: #f1f2df;
+      }
+
+      .cls-163, .cls-164 {
+        stroke-width: 1.4px;
+      }
+
+      .cls-199 {
+        fill: #f6f8f4;
+      }
+
+      .cls-157, .cls-152 {
+        stroke: #654fad;
+      }
+
+      .cls-200 {
+        fill: #654fad;
+      }
+
+      .cls-59, .cls-86, .cls-93 {
+        letter-spacing: .02em;
+      }
+
+      .cls-61, .cls-201 {
+        fill: #a797dd;
+      }
+
+      .cls-61, .cls-75 {
+        opacity: .45;
+      }
+
+      .cls-202 {
+        stroke: #433e34;
+      }
+
+      .cls-202, .cls-203 {
+        fill: #edebe6;
+      }
+
+      .cls-62, .cls-79, .cls-93, .cls-204 {
+        fill: #654eaf;
+      }
+
+      .cls-205 {
+        fill: #37418a;
+      }
+
+      .cls-66, .cls-67, .cls-206 {
+        fill: #777a13;
+      }
+
+      .cls-71 {
+        font-size: 9.12px;
+      }
+
+      .cls-72 {
+        font-family: PingFangSC-Regular-GBpc-EUC-H, 'PingFang SC';
+      }
+
+      .cls-180 {
+        stroke-linejoin: round;
+        stroke-width: 2.88px;
+      }
+
+      .cls-180, .cls-158 {
+        stroke-linecap: round;
+      }
+
+      .cls-74 {
+        opacity: .22;
+      }
+
+      .cls-207 {
+        fill: #f9f4f4;
+      }
+
+      .cls-141, .cls-84 {
+        font-size: 11.56px;
+      }
+
+      .cls-208, .cls-91, .cls-92 {
+        fill: #674db7;
+      }
+
+      .cls-209 {
+        fill: #d94a4a;
+      }
+
+      .cls-80 {
+        font-size: 10px;
+      }
+
+      .cls-82, .cls-98, .cls-101 {
+        font-size: 22px;
+      }
+
+      .cls-83, .cls-109 {
+        font-family: 'AlibabaPuHuiTi_3_105_Heavy', 'AlibabaPuHuiTi 3 105 Heavy', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-85, .cls-210 {
+        fill: #f08c4d;
+      }
+
+      .cls-127 {
+        font-size: 12.5px;
+      }
+
+      .cls-139 {
+        font-size: 23px;
+      }
+
+      .cls-90 {
+        font-size: 7.71px;
+        letter-spacing: .05em;
+      }
+
+      .cls-94 {
+        letter-spacing: .01em;
+      }
+
+      .cls-211, .cls-107, .cls-108 {
+        fill: #e99760;
+      }
+
+      .cls-95 {
+        opacity: .8;
+      }
+
+      .cls-159 {
+        stroke: #000;
+      }
+
+      .cls-99 {
+        fill: #b44545;
+      }
+
+      .cls-100 {
+        font-size: 13.28px;
+      }
+
+      .cls-100, .cls-106 {
+        font-family: 'AlibabaPuHuiTi_3_75_SemiBold', 'AlibabaPuHuiTi 3 75 SemiBold', Arial, 'PingFang SC', sans-serif; font-weight: 600;
+        
+      }
+
+      .cls-212 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-213 {
+        fill: #edece7;
+      }
+
+      .cls-185 {
+        fill: #dce5a3;
+      }
+
+      .cls-179 {
+        stroke: #403b30;
+        stroke-width: .75px;
+      }
+
+      .cls-186 {
+        fill: #f1c6c6;
+      }
+
+      .cls-113 {
+        font-size: 30px;
+      }
+
+      .cls-114 {
+        font-size: 8.59px;
+      }
+
+      .cls-115 {
+        font-size: 11.84px;
+      }
+
+      .cls-115, .cls-118 {
+        font-family: AdobeMingStd-Light-B5pc-H, 'Adobe Ming Std';
+        font-weight: 300;
+      }
+
+      .cls-214 {
+        fill: #f0ecfa;
+      }
+
+      .cls-194, .cls-215, .cls-216 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-215 {
+        letter-spacing: .05em;
+      }
+
+      .cls-166 {
+        stroke-dasharray: 8 8;
+      }
+
+      .cls-117 {
+        font-size: 14.7px;
+      }
+
+      .cls-217 {
+        fill: #e9ecf8;
+      }
+
+      .cls-118 {
+        font-size: 11.72px;
+      }
+
+      .cls-218 {
+        letter-spacing: .03em;
+      }
+
+      .cls-129 {
+        font-size: 19.85px;
+      }
+
+      .cls-219 {
+        letter-spacing: .01em;
+      }
+
+      .cls-220 {
+        fill: #63a51c;
+      }
+
+      .cls-221 {
+        fill: #6c4bb8;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" y="3306.55" width="1600" height="997.0900000000001" />
+  <rect class="cls-167" x="1414.42" y="3353.8" width="129.56" height="38.789999999999964" rx="19.39" ry="19.39" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-101" transform="translate(1432.66 3381.22)"><tspan x="0" y="0">Optional</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-76" transform="translate(46.53 3385.74)"><tspan x="0" y="0">CONFLICT-RESOLUTION PROTOCOL  冲突解决流程</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-87" transform="translate(46.53 3440.1)"><tspan x="0" y="0">Clarify, test, reconfigure, govern—and preserve legitimate dissent.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-87" transform="translate(714.58 3440.1)"><tspan x="0" y="0">澄清、检验证据、调整方案、按规则治理，并保留合理异议</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-2" x="46.53" y="3469.61" width="1497.45" height="94.36999999999989" rx="20" ry="20" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-104" transform="translate(62.48 3494.53)"><tspan x="0" y="0">PROTOCOL RECORD   流程记录</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-195" x="59.83" y="3508.46" width="202.69" height="43.9699999999998" rx="10" ry="10" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-12" transform="translate(67.8 3522.42)"><tspan x="0" y="0">Conflict ID  冲突编号</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-195" x="279.41" y="3508.46" width="396.94" height="43.9699999999998" rx="10" ry="10" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-12" transform="translate(291.41 3522.42)"><tspan x="0" y="0">Linked decision / alternative IDs   关联决定或方案编号</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-195" x="693.24" y="3508.46" width="439.16" height="43.9699999999998" rx="10" ry="10" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-12" transform="translate(707.93 3522.42)"><tspan x="0" y="0">Roles involved   涉及角色</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-195" x="1149.29" y="3508.46" width="380.05" height="43.9699999999998" rx="10" ry="10" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-12" transform="translate(1159.14 3522.42)"><tspan x="0" y="0">Protocol owner / date   流程负责人及日期</tspan></text>
+    </g>
+  </g>
+  <path class="cls-143" d="M550.42 3717.17 540.4499999999999 3737.11 530.4799999999999 3717.17H550.42Z" />
+  <path class="cls-143" d="M871.7 3633.27 891.6400000000001 3643.24 871.7 3653.2099999999996V3633.2699999999995Z" />
+  <path class="cls-143" d="M871.7 3798.23 891.6400000000001 3808.2 871.7 3818.1699999999996V3798.2299999999996Z" />
+  <path class="cls-143" d="M871.7 3953.7 891.6400000000001 3963.6699999999996 871.7 3973.6399999999994V3953.6999999999994Z" />
+  <path class="cls-143" d="M871.7 4108.5 891.6400000000001 4118.47 871.7 4128.4400000000005V4108.500000000001Z" />
+  <path class="cls-143" d="M550.42 3874.32 540.4499999999999 3894.26 530.4799999999999 3874.32H550.42Z" />
+  <path class="cls-143" d="M550.42 4030.0 540.4499999999999 4049.94 530.4799999999999 4030.0H550.42Z" />
+  <path class="cls-143" d="M1236.76 3717.17 1226.79 3737.11 1216.82 3717.17H1236.76Z" />
+  <path class="cls-143" d="M1236.76 3874.32 1226.79 3894.26 1216.82 3874.32H1236.76Z" />
+  <path class="cls-143" d="M1236.76 4030.0 1226.79 4049.94 1216.82 4030.0H1236.76Z" />
+  <path class="cls-208" d="M69.26 3582.02H191.57C200.01 3582.02 206.85999999999999 3588.86 206.85999999999999 3597.31C206.85999999999999 3605.75 200.01999999999998 3612.6 191.57 3612.6H69.25999999999999C60.81999999999999 3612.6 53.96999999999999 3605.7599999999998 53.96999999999999 3597.31C53.96999999999999 3588.87 60.80999999999999 3582.02 69.25999999999999 3582.02Z" />
+  <g class="cls-52">
+    <text class="cls-54" transform="translate(84.04 3601.96)"><tspan x="0" y="0">CLARIFY   澄清</tspan></text>
+  </g>
+  <path class="cls-2" d="M227.52 3579.36H837.73C849.87 3579.36 859.73 3589.2200000000003 859.73 3601.36V3687.63C859.73 3699.77 849.87 3709.63 837.73 3709.63H227.52C223.02 3709.63 219.36 3705.9700000000003 219.36 3701.4700000000003V3587.5200000000004C219.36 3583.0200000000004 223.02 3579.3600000000006 227.52 3579.3600000000006Z" />
+  <path class="cls-208" d="M222.68 3579.36C224.52 3579.36 226.0 3580.6600000000003 226.0 3582.25V3706.74C226.0 3708.3399999999997 224.51 3709.6299999999997 222.68 3709.6299999999997C220.84 3709.6299999999997 219.36 3708.3299999999995 219.36 3706.74V3582.25C219.36 3580.65 220.85000000000002 3579.36 222.68 3579.36Z" />
+  <circle class="cls-208" cx="252.29" cy="3609.27" r="16.62" transform="translate(-3350.79 3280.17) rotate(-80.78)" />
+  <g class="cls-52">
+    <text class="cls-110" transform="translate(247 3616.08)"><tspan x="0" y="0">1</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(277.85 3611.27)"><tspan x="0" y="0">Clarify the proposition   澄清争议主张</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(277.85 3628.87)"><tspan x="0" y="0">Are all parties disagreeing about the same specific proposition?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(625.59 3628.87)"><tspan x="0" y="0">各方是否在讨论同一个具体主张？</tspan></text>
+  </g>
+  <rect class="cls-214" x="275.2" y="3638.73" width="567.83" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-92" transform="translate(284.5 3652.68)"><tspan x="0" y="0">RECORD   填写记录</tspan></text>
+  </g>
+  <path class="cls-206" d="M69.26 3746.98H191.57C200.01 3746.98 206.85999999999999 3752.33 206.85999999999999 3760.78V3779.6800000000003C206.85999999999999 3788.1200000000003 200.01999999999998 3794.9700000000003 191.57 3794.9700000000003H69.25999999999999C60.81999999999999 3794.9700000000003 53.96999999999999 3788.13 53.96999999999999 3779.6800000000003V3762.2700000000004C53.96999999999999 3753.8300000000004 60.80999999999999 3746.9800000000005 69.25999999999999 3746.9800000000005Z" />
+  <path class="cls-2" d="M228.25 3744.32H837.73C849.87 3744.32 859.73 3754.1800000000003 859.73 3766.32V3847.75C859.73 3859.89 849.87 3869.75 837.73 3869.75H228.25C223.34 3869.75 219.36 3865.76 219.36 3860.86V3753.2200000000003C219.36 3748.3100000000004 223.35000000000002 3744.3300000000004 228.25 3744.3300000000004V3744.32Z" />
+  <path class="cls-206" d="M222.68 3744.32C224.52 3744.32 226.0 3745.57 226.0 3747.1000000000004V3866.9600000000005C226.0 3868.5000000000005 224.51 3869.7400000000007 222.68 3869.7400000000007C220.84 3869.7400000000007 219.36 3868.4900000000007 219.36 3866.9600000000005V3747.1000000000004C219.36 3745.5600000000004 220.85000000000002 3744.32 222.68 3744.32Z" />
+  <circle class="cls-206" cx="252.29" cy="3774.23" r="16.62" transform="translate(-3513.62 3418.7) rotate(-80.78)" />
+  <g class="cls-52">
+    <text class="cls-110" transform="translate(246.95 3781.21)"><tspan x="0" y="0">3</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(277.85 3776.23)"><tspan x="0" y="0">Apply safeguards and constraints   应用底线和可行性约束</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(277.85 3793.83)"><tspan x="0" y="0">Does any option violate a safeguard or feasibility limit?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(578.97 3793.83)"><tspan x="0" y="0">是否有方案违反底线或可行性限制？</tspan></text>
+  </g>
+  <rect class="cls-198" x="275.2" y="3802.82" width="567.83" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-67" transform="translate(284.5 3816.78)"><tspan x="0" y="0">RECORD   填写记录</tspan></text>
+  </g>
+  <path class="cls-211" d="M69.26 3902.46H191.57C200.01 3902.46 206.85999999999999 3909.3 206.85999999999999 3917.75C206.85999999999999 3926.19 200.01999999999998 3933.04 191.57 3933.04H69.25999999999999C60.81999999999999 3933.04 53.96999999999999 3926.2 53.96999999999999 3917.75C53.96999999999999 3909.31 60.80999999999999 3902.46 69.25999999999999 3902.46Z" />
+  <g class="cls-52">
+    <text class="cls-28" transform="translate(74.59 3922.4)"><tspan x="0" y="0">RECONCILE   协调</tspan></text>
+  </g>
+  <path class="cls-2" d="M227.14 3899.8H837.73C849.87 3899.8 859.73 3909.6600000000003 859.73 3921.8V4001.27C859.73 4013.41 849.87 4023.27 837.73 4023.27H227.14C222.83999999999997 4023.27 219.35999999999999 4019.78 219.35999999999999 4015.49V3907.5899999999997C219.35999999999999 3903.2899999999995 222.85 3899.8099999999995 227.14 3899.8099999999995V3899.8Z" />
+  <path class="cls-211" d="M222.68 3899.8C224.52 3899.8 226.0 3901.03 226.0 3902.54V4020.52C226.0 4022.04 224.51 4023.2599999999998 222.68 4023.2599999999998C220.84 4023.2599999999998 219.36 4022.0299999999997 219.36 4020.52V3902.54C219.36 3901.02 220.85000000000002 3899.8 222.68 3899.8Z" />
+  <circle class="cls-211" cx="252.29" cy="3929.72" r="16.62" transform="translate(-3667.09 3549.28) rotate(-80.78)" />
+  <g class="cls-52">
+    <text class="cls-47" transform="translate(246.67 3936.99)"><tspan x="0" y="0">5</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(277.85 3931.71)"><tspan x="0" y="0">Review role-specific values   检查不同角色的合理诉求</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(277.85 3949.31)"><tspan x="0" y="0">Which legitimate role priorities drive the disagreement?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(582.95 3949.31)"><tspan x="0" y="0">哪些合理的角色目标造成了分歧？</tspan></text>
+  </g>
+  <rect class="cls-192" x="275.2" y="3957.67" width="567.83" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-107" transform="translate(284.5 3971.63)"><tspan x="0" y="0">RECORD   填写记录</tspan></text>
+  </g>
+  <path class="cls-174" d="M69.26 4057.25H191.57C200.01 4057.25 206.85999999999999 4064.09 206.85999999999999 4072.54C206.85999999999999 4080.98 200.01999999999998 4087.83 191.57 4087.83H69.25999999999999C60.81999999999999 4087.83 53.96999999999999 4080.99 53.96999999999999 4072.54C53.96999999999999 4064.1 60.80999999999999 4057.25 69.25999999999999 4057.25Z" />
+  <g class="cls-52">
+    <text class="cls-54" transform="translate(83.38 4077.19)"><tspan x="0" y="0">GOVERN   治理</tspan></text>
+  </g>
+  <path class="cls-2" d="M226.33 4054.59H837.73C849.87 4054.59 859.73 4064.4500000000003 859.73 4076.59V4156.75C859.73 4168.89 849.87 4178.75 837.73 4178.75H226.33C222.48000000000002 4178.75 219.36 4175.62 219.36 4171.78V4061.5699999999997C219.36 4057.72 222.49 4054.6 226.33 4054.6V4054.59Z" />
+  <path class="cls-2" d="M911.91 3579.36H1521.98C1534.1200000000001 3579.36 1543.98 3589.2200000000003 1543.98 3601.36V3687.63C1543.98 3699.77 1534.1200000000001 3709.63 1521.98 3709.63H911.91C907.3299999999999 3709.63 903.61 3705.9100000000003 903.61 3701.33V3587.66C903.61 3583.08 907.33 3579.3599999999997 911.91 3579.3599999999997Z" />
+  <path class="cls-2" d="M910.6 3744.32H1521.98C1534.1200000000001 3744.32 1543.98 3754.1800000000003 1543.98 3766.32V3847.75C1543.98 3859.89 1534.1200000000001 3869.75 1521.98 3869.75H910.6C906.74 3869.75 903.61 3866.62 903.61 3862.76V3751.3100000000004C903.61 3747.4500000000003 906.74 3744.3200000000006 910.6 3744.3200000000006Z" />
+  <path class="cls-2" d="M910.43 3899.8H1521.98C1534.1200000000001 3899.8 1543.98 3909.6600000000003 1543.98 3921.8V4001.27C1543.98 4013.41 1534.1200000000001 4023.27 1521.98 4023.27H910.4300000000001C906.6700000000001 4023.27 903.61 4020.22 903.61 4016.45V3906.6099999999997C903.61 3902.8499999999995 906.66 3899.7899999999995 910.4300000000001 3899.7899999999995L910.43 3899.8Z" />
+  <path class="cls-2" d="M911.77 4054.59H1521.98C1534.1200000000001 4054.59 1543.98 4064.4500000000003 1543.98 4076.59V4156.75C1543.98 4168.89 1534.1200000000001 4178.75 1521.98 4178.75H911.77C907.27 4178.75 903.61 4175.09 903.61 4170.59V4062.7400000000002C903.61 4058.2400000000002 907.27 4054.5800000000004 911.77 4054.5800000000004V4054.59Z" />
+  <path class="cls-174" d="M222.68 4054.59C224.52 4054.59 226.0 4055.83 226.0 4057.3500000000004V4176.0C226.0 4177.53 224.51 4178.76 222.68 4178.76C220.84 4178.76 219.36 4177.52 219.36 4176.0V4057.35C219.36 4055.8199999999997 220.85000000000002 4054.5899999999997 222.68 4054.5899999999997Z" />
+  <circle class="cls-174" cx="252.29" cy="4084.51" r="16.62" transform="translate(-3819.89 3679.28) rotate(-80.78)" />
+  <g class="cls-52">
+    <text class="cls-110" transform="translate(247.37 4092.42)"><tspan x="0" y="0">7</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(277.85 4086.5)"><tspan x="0" y="0">Apply the pre-agreed decision rule   应用事先约定的决策规则</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(277.85 4104.11)"><tspan x="0" y="0">Which pre-agreed decision rule and authority apply?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(566.38 4104.11)"><tspan x="0" y="0">应使用哪项事先约定的规则和权限？</tspan></text>
+  </g>
+  <rect class="cls-217" x="275.2" y="4114.21" width="567.83" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-26" transform="translate(284.5 4128.17)"><tspan x="0" y="0">RECORD   填写记录</tspan></text>
+  </g>
+  <rect class="cls-168" x="46.53" y="4197.72" width="1497.45" height="43.86999999999989" rx="18" ry="18" />
+  <rect class="cls-146" x="76.44" y="4210.35" width="16.62" height="16.61999999999989" rx="4" ry="4" />
+  <g class="cls-52">
+    <text class="cls-21" transform="translate(101.7 4223.64)"><tspan x="0" y="0">Clarified   概念已澄清</tspan></text>
+  </g>
+  <rect class="cls-146" x="388.15" y="4210.35" width="16.62" height="16.61999999999989" rx="4" ry="4" />
+  <g class="cls-52">
+    <text class="cls-21" transform="translate(413.4 4223.64)"><tspan x="0" y="0">Evidence strengthened   证据已加强</tspan></text>
+  </g>
+  <rect class="cls-146" x="826.41" y="4210.35" width="16.62" height="16.61999999999989" rx="4" ry="4" />
+  <g class="cls-52">
+    <text class="cls-21" transform="translate(851.67 4223.64)"><tspan x="0" y="0">Redesigned / escalated   方案已调整或升级</tspan></text>
+  </g>
+  <rect class="cls-146" x="1275.96" y="4210.35" width="16.62" height="16.61999999999989" rx="4" ry="4" />
+  <g class="cls-52">
+    <text class="cls-21" transform="translate(1301.31 4223.64)"><tspan x="0" y="0">Dissent documented   异议已记录</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-72" transform="translate(46.53 4264.19)"><tspan x="0" y="0">合理结果不一定是达成共识：也可以是澄清概念、补强证据、调整方案、升级专业判断、按规则决策或记录异议。  A valid outcome need not be consensus.</tspan></text>
+  </g>
+  <path class="cls-208" d="M905.79 3579.36C907.68 3579.36 909.2199999999999 3580.6600000000003 909.2199999999999 3582.25V3706.74C909.2199999999999 3708.3399999999997 907.6899999999999 3709.6299999999997 905.79 3709.6299999999997C903.9 3709.6299999999997 902.36 3708.3299999999995 902.36 3706.74V3582.25C902.36 3580.65 903.89 3579.36 905.79 3579.36Z" />
+  <ellipse class="cls-208" cx="936.3" cy="3609.27" rx="17.13" ry="16.62" />
+  <g class="cls-52">
+    <text class="cls-110" transform="translate(930.84 3615.58) scale(1.03 1)"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(962.65 3611.27) scale(1.03 1)"><tspan x="0" y="0">Inspect the evidence   检查证据</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(962.65 3628.87)"><tspan x="0" y="0">Is the shared evidence relevant and strong enough; what is missing?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(1333.59 3628.87)"><tspan x="0" y="0">共同证据是否相关、充分；还缺什么？</tspan></text>
+  </g>
+  <rect class="cls-214" x="959.91" y="3638.73" width="569.43" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-91" transform="translate(969.5 3652.68) scale(1.03 1)"><tspan x="0" y="0">RECORD / 填写记录</tspan></text>
+  </g>
+  <path class="cls-206" d="M905.79 3744.32C907.68 3744.32 909.2199999999999 3745.57 909.2199999999999 3747.1000000000004V3866.9600000000005C909.2199999999999 3868.5000000000005 907.6899999999999 3869.7400000000007 905.79 3869.7400000000007C903.9 3869.7400000000007 902.36 3868.4900000000007 902.36 3866.9600000000005V3747.1000000000004C902.36 3745.5600000000004 903.89 3744.32 905.79 3744.32Z" />
+  <ellipse class="cls-206" cx="936.3" cy="3774.23" rx="17.13" ry="16.62" />
+  <g class="cls-52">
+    <text class="cls-110" transform="translate(929.61 3781.2) scale(1.03 1)"><tspan x="0" y="0">4</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(962.65 3776.23) scale(1.03 1)"><tspan x="0" y="0">Reconfigure the alternatives   调整备选方案</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(962.65 3793.83)"><tspan x="0" y="0">Can options be modified, combined, reduced or staged?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(1266.13 3793.83)"><tspan x="0" y="0">能否修改、组合、缩小范围或分阶段测试？</tspan></text>
+  </g>
+  <rect class="cls-198" x="959.91" y="3802.82" width="569.43" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-66" transform="translate(969.5 3816.78) scale(1.03 1)"><tspan x="0" y="0">RECORD   填写记录</tspan></text>
+  </g>
+  <path class="cls-211" d="M905.79 3899.8C907.68 3899.8 909.2199999999999 3901.03 909.2199999999999 3902.54V4020.52C909.2199999999999 4022.04 907.6899999999999 4023.2599999999998 905.79 4023.2599999999998C903.9 4023.2599999999998 902.36 4022.0299999999997 902.36 4020.52V3902.54C902.36 3901.02 903.89 3899.8 905.79 3899.8Z" />
+  <ellipse class="cls-211" cx="936.3" cy="3929.72" rx="17.13" ry="16.62" />
+  <g class="cls-52">
+    <text class="cls-47" transform="translate(929.65 3936.93) scale(1.03 1)"><tspan x="0" y="0">6</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(962.65 3931.71) scale(1.03 1)"><tspan x="0" y="0">Escalate missing expertise   补充缺失的专业判断</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(962.65 3949.32)"><tspan x="0" y="0">What specialist or institutional authority is missing?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(1244.62 3949.31)"><tspan x="0" y="0">当前缺少哪类专家或机构授权？</tspan></text>
+  </g>
+  <rect class="cls-192" x="959.91" y="3957.67" width="569.43" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-108" transform="translate(969.5 3971.63) scale(1.03 1)"><tspan x="0" y="0">RECORD   填写记录</tspan></text>
+  </g>
+  <path class="cls-174" d="M905.79 4054.59C907.68 4054.59 909.2199999999999 4055.83 909.2199999999999 4057.3500000000004V4176.0C909.2199999999999 4177.53 907.6899999999999 4178.76 905.79 4178.76C903.9 4178.76 902.36 4177.52 902.36 4176.0V4057.35C902.36 4055.8199999999997 903.89 4054.5899999999997 905.79 4054.5899999999997Z" />
+  <ellipse class="cls-174" cx="936.3" cy="4084.51" rx="17.13" ry="16.62" />
+  <g class="cls-52">
+    <text class="cls-110" transform="translate(930.48 4090.99) scale(1.03 1)"><tspan x="0" y="0">8</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-106" transform="translate(962.65 4086.5) scale(1.03 1)"><tspan x="0" y="0">Record dissent and revisit conditions   记录异议与重审条件</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(962.65 4104.11)"><tspan x="0" y="0">Who still disagrees, why, and what would reopen the decision?</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-12" transform="translate(1307.6 4104.11)"><tspan x="0" y="0">谁仍不同意、为什么、何时重新讨论？</tspan></text>
+  </g>
+  <rect class="cls-217" x="959.91" y="4114.21" width="569.43" height="54.51000000000022" rx="12" ry="12" />
+  <g class="cls-52">
+    <text class="cls-25" transform="translate(969.5 4128.17) scale(1.03 1)"><tspan x="0" y="0">RECORD   填写记录</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-54" transform="translate(72.14 3765.97)"><tspan x="0" y="0">TEST BOUNDARIES</tspan><tspan x="30.27" y="16.8">检查边界</tspan></text>
+  </g>
+  <g id="conflict_resolution__conflict_id" data-field="conflict_id" /><g id="conflict_resolution__linked_ids" data-field="linked_ids" /><g id="conflict_resolution__roles_involved" data-field="roles_involved" /><g id="conflict_resolution__owner_date" data-field="owner_date" /><g id="conflict_resolution__clarify_proposition" data-field="clarify_proposition" /><g id="conflict_resolution__inspect_evidence" data-field="inspect_evidence" /><g id="conflict_resolution__apply_safeguards" data-field="apply_safeguards" /><g id="conflict_resolution__reconfigure_alternatives" data-field="reconfigure_alternatives" /><g id="conflict_resolution__review_role_values" data-field="review_role_values" /><g id="conflict_resolution__escalate_expertise" data-field="escalate_expertise" /><g id="conflict_resolution__decision_rule" data-field="decision_rule" /><g id="conflict_resolution__dissent_revisit" data-field="dissent_revisit" /><g id="conflict_resolution__clarified" data-field="clarified" /><g id="conflict_resolution__evidence_strengthened" data-field="evidence_strengthened" /><g id="conflict_resolution__redesigned_escalated" data-field="redesigned_escalated" /><g id="conflict_resolution__dissent_documented" data-field="dissent_documented" /><text x="16" y="3289.55" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#544970"><tspan x="16" dy="0">共享工具 · 1/1 页 · 作者、支持和质疑可点击查看</tspan></text></svg>

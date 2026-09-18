@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="referrer" content="no-referrer"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; connect-src 'self'; img-src 'self' blob:; font-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"><title>TRIAD · Recorded Simulation</title><link rel="stylesheet" href="./style.css"><link rel="icon" href="data:,"><link rel="stylesheet" href="./research.css"></head>
+<body>
+<header><div><span class="brand">TRIAD</span><span class="sub">RESEARCH WORKSPACE · 研究工作台</span></div><div id="status">Recorded Simulation / 已錄製模擬</div></header>
+<section class="controls" aria-label="Recording controls"><label for="runSelect">示範記錄 / Recording</label><select id="runSelect"><option value="">選擇記錄 / Select recording</option></select><a id="downloadRecording" class="button" hidden download>下載記錄 JSON</a></section>
+<div class="local-only"><strong>靜態研究展示 / Static research showcase</strong><span>此頁只回放經審核的已錄製內容。開始、暫停或繼續真實模擬，需要使用本地 TRIAD 研究應用。此網站不連接 Azure，也不產生模型调用。</span></div>
+<section id="researchScope" class="local-only"><strong>Fictional research scenario / 虛構研究場景</strong><span>角色、角色專屬資訊及校園營運細節均為合成設定，不代表真實人物、機構政策、排班、預算或系統缺陷。尚未收集效果數據；承諾、計畫與「支持」不等於已執行或已驗證的結果。</span><span>記錄中的兩天試記是資料記錄方式的校準計畫，不是方案成效證據。保留原始未解決問題與工具缺漏；較晚發言不會自動改寫較早提案或階段快照。</span></section>
+<section id="scenarioLibrary" class="local-only" hidden><h2>Scenario library / 五個虛構演示案例</h2><p>Descriptions only. Starting a new simulation requires the local application. These cases are not additional recorded runs.</p><div id="scenarioDescriptions"></div></section>
+<div id="notice" role="alert" hidden></div><section id="runProvenance" aria-live="polite"></section><section id="viewContext" role="status"></section>
+<section id="recordingAudit" class="local-only" hidden></section>
+<nav id="stages" aria-label="TRIAD stages"></nav><section id="participants" aria-label="Six participants"></section>
+<main>
+<section class="discussion"><div class="section-head"><h1>Discussion <small>公開討論</small></h1><span id="turnCount">0 turns</span></div>
+<div class="replay-bar"><label for="timeline">回放</label><input id="timeline" type="range" min="0" max="0" value="0" disabled><span id="replayTurn">最終記錄</span><button id="latest" disabled>最終記錄</button></div><div id="transcript" aria-live="polite"><div class="empty">等待選擇經審核的示範記錄。</div></div></section>
+<section class="workspace"><div class="section-head"><h1>TRIAD Workspace <small>共享工具</small></h1><span id="backendLabel">BROWSER REPLAY · 0 API CALLS</span></div>
+<div id="toolTabs" role="tablist" aria-label="Eleven TRIAD tools"></div>
+<div class="sheet-controls"><button id="prev" aria-label="Previous sheet" disabled>←</button><span id="pageLabel">—</span><button id="next" aria-label="Next sheet" disabled>→</button><button id="zoomOut" aria-label="Zoom out">−</button><span id="zoomLabel">適應寬度</span><button id="zoomIn" aria-label="Zoom in">+</button><a id="downloadSvg" class="button" hidden download>SVG</a><button id="downloadJson" disabled>工具 JSON</button></div>
+<div id="worksheet"><div class="empty">原始雙語工具將顯示在此。</div></div><div id="provenanceCounts"></div><div id="entryList" aria-label="Provenance"></div>
+</section></main>
+<dialog id="inspector"><div class="section-head"><h2>Entry inspector · 條目溯源</h2><button id="closeInspector" aria-label="Close inspector">×</button></div><div id="inspectorBody"></div></dialog>
+<footer>提議不等於接受 · 分歧不會自動消失 · 已錄製內容不代表即時模擬 <span>0 model calls</span></footer>
+<script src="./research.js" defer></script><script src="./app.js" defer></script></body></html>

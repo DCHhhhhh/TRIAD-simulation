@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "mode": "recorded",
+  "approved_for_publication": true,
+  "recordings": [
+    {
+      "slug": "campus-azure-60",
+      "title": "Campus Study-Room Booking · 60 Azure turns",
+      "source_kind": "recorded_model_output",
+      "path": "data/campus-azure-60/recording.json"
+    }
+  ],
+  "scenarios": []
+}

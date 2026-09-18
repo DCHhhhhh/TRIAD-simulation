@@ -1,0 +1,1083 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3236.61 2184.58 1600 1410.2000000000007" width="1600" height="1410.2000000000007" id="decision_matrix" data-template-version="f6ad71fb872107a658b3fb3137ef593eaac65608f4043f628a8696379d641714"><defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #d8d6ce;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #f7f7f3;
+      }
+
+      .cls-5 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-88, .cls-89, .cls-90, .cls-91, .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100, .cls-101, .cls-102, .cls-103, .cls-104, .cls-105, .cls-106, .cls-107, .cls-108, .cls-109, .cls-110, .cls-111, .cls-112, .cls-113, .cls-114, .cls-115, .cls-116, .cls-117, .cls-118, .cls-119, .cls-120, .cls-121 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-12, .cls-14, .cls-15, .cls-122, .cls-22, .cls-25, .cls-26, .cls-27, .cls-32, .cls-33, .cls-37, .cls-123, .cls-47, .cls-51, .cls-53, .cls-124, .cls-56, .cls-58, .cls-63, .cls-66, .cls-67, .cls-71, .cls-73, .cls-125, .cls-126, .cls-80, .cls-127, .cls-87, .cls-90, .cls-91, .cls-92, .cls-94, .cls-128, .cls-107, .cls-108, .cls-110, .cls-112, .cls-114, .cls-129, .cls-130 {
+        font-family: 'AlibabaPuHuiTi_3_55_Regular', 'AlibabaPuHuiTi 3 55 Regular', Arial, 'PingFang SC', sans-serif; font-weight: 400;
+        
+      }
+
+      .cls-5, .cls-6, .cls-10, .cls-131, .cls-48, .cls-63, .cls-80, .cls-90, .cls-105 {
+        fill: #433e34;
+      }
+
+      .cls-5, .cls-6, .cls-13, .cls-21, .cls-28, .cls-33, .cls-123, .cls-39, .cls-40, .cls-54, .cls-63, .cls-69, .cls-126, .cls-85, .cls-97, .cls-99, .cls-103, .cls-104 {
+        font-size: 14px;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7, .cls-9, .cls-17, .cls-20, .cls-34, .cls-35, .cls-38, .cls-39, .cls-40, .cls-42, .cls-44, .cls-45, .cls-50, .cls-57, .cls-59, .cls-62, .cls-64, .cls-65, .cls-69, .cls-70, .cls-79, .cls-82, .cls-86, .cls-88, .cls-89, .cls-93, .cls-96, .cls-98, .cls-101, .cls-111, .cls-116, .cls-119, .cls-120 {
+        font-family: 'AlibabaPuHuiTi_3_85_Bold', 'AlibabaPuHuiTi 3 85 Bold', Arial, 'PingFang SC', sans-serif; font-weight: 700;
+        
+      }
+
+      .cls-7, .cls-122, .cls-32, .cls-35, .cls-36, .cls-58, .cls-89, .cls-94 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-40, .cls-86, .cls-111, .cls-132 {
+        fill: #494b1c;
+      }
+
+      .cls-133, .cls-134, .cls-135, .cls-27, .cls-28, .cls-136, .cls-35, .cls-36, .cls-47, .cls-137, .cls-138, .cls-68, .cls-76, .cls-77, .cls-78, .cls-81, .cls-139, .cls-106, .cls-140, .cls-109 {
+        fill: #221f1b;
+      }
+
+      .cls-133, .cls-17, .cls-18, .cls-24, .cls-38, .cls-50, .cls-59, .cls-64, .cls-79, .cls-86, .cls-93, .cls-96 {
+        font-size: 20px;
+      }
+
+      .cls-133, .cls-135, .cls-137, .cls-138, .cls-55, .cls-141, .cls-78, .cls-81, .cls-84, .cls-139, .cls-113 {
+        font-family: 'AlibabaPuHuiTi_3_45_Light', 'AlibabaPuHuiTi 3 45 Light', Arial, 'PingFang SC', sans-serif; font-weight: 300;
+        
+      }
+
+      .cls-8, .cls-142, .cls-29, .cls-46, .cls-72, .cls-114, .cls-143 {
+        fill: #69655d;
+      }
+
+      .cls-8, .cls-10, .cls-27, .cls-37, .cls-48, .cls-68, .cls-73, .cls-83, .cls-105, .cls-109, .cls-111, .cls-112, .cls-119 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-24, .cls-28, .cls-29, .cls-30, .cls-31, .cls-36, .cls-41, .cls-43, .cls-46, .cls-49, .cls-54, .cls-104, .cls-140, .cls-117 {
+        font-family: 'AlibabaPuHuiTi_3_65_Medium', 'AlibabaPuHuiTi 3 65 Medium', Arial, 'PingFang SC', sans-serif; font-weight: 500;
+        
+      }
+
+      .cls-9 {
+        letter-spacing: .03em;
+      }
+
+      .cls-9, .cls-16, .cls-57, .cls-130 {
+        font-size: 17px;
+      }
+
+      .cls-9, .cls-56, .cls-65, .cls-116 {
+        fill: #1d1915;
+      }
+
+      .cls-144, .cls-15, .cls-16, .cls-18, .cls-145, .cls-122, .cls-21, .cls-24, .cls-33, .cls-123, .cls-43, .cls-44, .cls-2, .cls-146, .cls-147, .cls-148, .cls-50, .cls-51, .cls-54, .cls-58, .cls-60, .cls-149, .cls-150, .cls-151, .cls-71, .cls-73, .cls-152, .cls-127, .cls-94, .cls-153, .cls-100, .cls-101, .cls-110, .cls-113, .cls-154, .cls-155, .cls-121, .cls-129, .cls-130 {
+        fill: #fff;
+      }
+
+      .cls-144, .cls-145, .cls-2, .cls-146, .cls-147, .cls-148, .cls-156, .cls-157, .cls-149, .cls-152, .cls-158, .cls-159, .cls-160, .cls-3, .cls-161 {
+        stroke-width: 2px;
+      }
+
+      .cls-144, .cls-162, .cls-163, .cls-164, .cls-165, .cls-166, .cls-160 {
+        stroke: #6c685f;
+      }
+
+      .cls-167, .cls-14, .cls-34, .cls-57 {
+        fill: #6d685f;
+      }
+
+      .cls-142 {
+        font-family: PingFangHK-Semibold-B5pc-H, 'PingFang HK';
+        font-size: 11.72px;
+        font-weight: 600;
+      }
+
+      .cls-11 {
+        opacity: .49;
+      }
+
+      .cls-12, .cls-25, .cls-26, .cls-29, .cls-41, .cls-66, .cls-67, .cls-72, .cls-91, .cls-92, .cls-107, .cls-108 {
+        font-size: 11px;
+      }
+
+      .cls-12, .cls-31, .cls-39, .cls-41, .cls-55, .cls-141, .cls-84, .cls-97, .cls-112, .cls-168, .cls-115, .cls-118 {
+        fill: #403b30;
+      }
+
+      .cls-13, .cls-21, .cls-23, .cls-85, .cls-97, .cls-99, .cls-103 {
+        font-family: 'AlibabaPuHuiTi_3_35_Thin', 'AlibabaPuHuiTi 3 35 Thin', Arial, 'PingFang SC', sans-serif; font-weight: 200;
+        
+      }
+
+      .cls-13, .cls-42, .cls-169, .cls-170, .cls-64 {
+        fill: #727622;
+      }
+
+      .cls-14, .cls-20, .cls-135, .cls-34, .cls-42, .cls-45, .cls-49, .cls-56, .cls-60, .cls-62, .cls-70, .cls-81, .cls-88, .cls-102, .cls-140 {
+        font-size: 18px;
+      }
+
+      .cls-15, .cls-22 {
+        font-size: 10.16px;
+      }
+
+      .cls-16, .cls-19, .cls-77, .cls-121 {
+        font-family: 'AlibabaPuHuiTi_3_95_ExtraBold', 'AlibabaPuHuiTi 3 95 ExtraBold', Arial, 'PingFang SC', sans-serif; font-weight: 800;
+        
+      }
+
+      .cls-17, .cls-59, .cls-70, .cls-171 {
+        fill: #343f8b;
+      }
+
+      .cls-18, .cls-60, .cls-102 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-19 {
+        fill: #4a4c22;
+      }
+
+      .cls-19, .cls-77, .cls-116, .cls-121 {
+        font-size: 24px;
+      }
+
+      .cls-20, .cls-172, .cls-69, .cls-82, .cls-89, .cls-102 {
+        fill: #413c31;
+      }
+
+      .cls-145, .cls-161 {
+        stroke: #72751f;
+      }
+
+      .cls-22 {
+        fill: #eeece5;
+      }
+
+      .cls-23, .cls-31, .cls-46 {
+        font-size: 13px;
+      }
+
+      .cls-23, .cls-173, .cls-103 {
+        fill: #1e1a33;
+      }
+
+      .cls-25, .cls-26, .cls-174 {
+        fill: #34449b;
+      }
+
+      .cls-25, .cls-66, .cls-91, .cls-108 {
+        letter-spacing: .06em;
+      }
+
+      .cls-26, .cls-67, .cls-92, .cls-107 {
+        letter-spacing: .06em;
+      }
+
+      .cls-30, .cls-43, .cls-55, .cls-78, .cls-106, .cls-120 {
+        font-size: 15px;
+      }
+
+      .cls-175 {
+        stroke: #6d685f;
+      }
+
+      .cls-175, .cls-176, .cls-177, .cls-169, .cls-178, .cls-153, .cls-159, .cls-179, .cls-154, .cls-155 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-175, .cls-176, .cls-156, .cls-162, .cls-157, .cls-180, .cls-158, .cls-95, .cls-159, .cls-164, .cls-165, .cls-179, .cls-166, .cls-160, .cls-3, .cls-161 {
+        fill: none;
+      }
+
+      .cls-181, .cls-38, .cls-88 {
+        fill: #e89c6a;
+      }
+
+      .cls-32 {
+        fill: #6c685f;
+      }
+
+      .cls-136, .cls-68, .cls-76 {
+        font-family: 'AlibabaPuHuiTi_3_115_Black', 'AlibabaPuHuiTi 3 115 Black', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-136, .cls-76 {
+        font-size: 41px;
+      }
+
+      .cls-182 {
+        fill: #dcd3f1;
+      }
+
+      .cls-182, .cls-183, .cls-184, .cls-150, .cls-185, .cls-186 {
+        stroke: #c9c6bc;
+      }
+
+      .cls-37, .cls-49, .cls-53, .cls-125, .cls-83, .cls-87, .cls-104, .cls-117, .cls-119 {
+        fill: #6c685f;
+      }
+
+      .cls-187 {
+        fill: #72751f;
+      }
+
+      .cls-188, .cls-74 {
+        fill: #e79a6a;
+      }
+
+      .cls-176, .cls-177, .cls-154 {
+        stroke: #1e1a33;
+      }
+
+      .cls-176, .cls-165 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-189, .cls-75 {
+        fill: #dfe39a;
+      }
+
+      .cls-177 {
+        fill: #463789;
+      }
+
+      .cls-177, .cls-169, .cls-178, .cls-153, .cls-154, .cls-155 {
+        stroke-width: 5px;
+      }
+
+      .cls-190, .cls-45, .cls-96, .cls-120 {
+        fill: #e0e49c;
+      }
+
+      .cls-191 {
+        fill: #a20f0f;
+      }
+
+      .cls-44, .cls-47, .cls-138, .cls-65, .cls-125, .cls-87, .cls-110 {
+        font-size: 21px;
+      }
+
+      .cls-192 {
+        fill: #faebdd;
+      }
+
+      .cls-146, .cls-180, .cls-95 {
+        stroke: #fff;
+      }
+
+      .cls-193 {
+        fill: #a51332;
+      }
+
+      .cls-147 {
+        stroke: #37418a;
+      }
+
+      .cls-148 {
+        stroke: #e79a6a;
+      }
+
+      .cls-169, .cls-153 {
+        stroke: #23351a;
+      }
+
+      .cls-156, .cls-149, .cls-158 {
+        stroke: #d9d8d1;
+      }
+
+      .cls-48, .cls-128, .cls-194 {
+        letter-spacing: .05em;
+      }
+
+      .cls-195, .cls-184 {
+        fill: #f1f0ec;
+      }
+
+      .cls-196 {
+        fill: #787b00;
+      }
+
+      .cls-137 {
+        font-size: 23.13px;
+      }
+
+      .cls-51 {
+        font-size: 14.06px;
+      }
+
+      .cls-53 {
+        font-size: 9.07px;
+      }
+
+      .cls-183 {
+        fill: #f2d4b9;
+      }
+
+      .cls-178, .cls-197 {
+        fill: #eda56e;
+      }
+
+      .cls-178, .cls-155 {
+        stroke: #603c15;
+      }
+
+      .cls-198 {
+        fill: #f1f2df;
+      }
+
+      .cls-163, .cls-164 {
+        stroke-width: 1.4px;
+      }
+
+      .cls-199 {
+        fill: #f6f8f4;
+      }
+
+      .cls-157, .cls-152 {
+        stroke: #654fad;
+      }
+
+      .cls-200 {
+        fill: #654fad;
+      }
+
+      .cls-59, .cls-86, .cls-93 {
+        letter-spacing: .02em;
+      }
+
+      .cls-61, .cls-201 {
+        fill: #a797dd;
+      }
+
+      .cls-61, .cls-75 {
+        opacity: .45;
+      }
+
+      .cls-202 {
+        stroke: #433e34;
+      }
+
+      .cls-202, .cls-203 {
+        fill: #edebe6;
+      }
+
+      .cls-62, .cls-79, .cls-93, .cls-204 {
+        fill: #654eaf;
+      }
+
+      .cls-205 {
+        fill: #37418a;
+      }
+
+      .cls-66, .cls-67, .cls-206 {
+        fill: #777a13;
+      }
+
+      .cls-71 {
+        font-size: 9.12px;
+      }
+
+      .cls-72 {
+        font-family: PingFangSC-Regular-GBpc-EUC-H, 'PingFang SC';
+      }
+
+      .cls-180 {
+        stroke-linejoin: round;
+        stroke-width: 2.88px;
+      }
+
+      .cls-180, .cls-158 {
+        stroke-linecap: round;
+      }
+
+      .cls-74 {
+        opacity: .22;
+      }
+
+      .cls-207 {
+        fill: #f9f4f4;
+      }
+
+      .cls-141, .cls-84 {
+        font-size: 11.56px;
+      }
+
+      .cls-208, .cls-91, .cls-92 {
+        fill: #674db7;
+      }
+
+      .cls-209 {
+        fill: #d94a4a;
+      }
+
+      .cls-80 {
+        font-size: 10px;
+      }
+
+      .cls-82, .cls-98, .cls-101 {
+        font-size: 22px;
+      }
+
+      .cls-83, .cls-109 {
+        font-family: 'AlibabaPuHuiTi_3_105_Heavy', 'AlibabaPuHuiTi 3 105 Heavy', Arial, 'PingFang SC', sans-serif; font-weight: 900;
+        
+      }
+
+      .cls-85, .cls-210 {
+        fill: #f08c4d;
+      }
+
+      .cls-127 {
+        font-size: 12.5px;
+      }
+
+      .cls-139 {
+        font-size: 23px;
+      }
+
+      .cls-90 {
+        font-size: 7.71px;
+        letter-spacing: .05em;
+      }
+
+      .cls-94 {
+        letter-spacing: .01em;
+      }
+
+      .cls-211, .cls-107, .cls-108 {
+        fill: #e99760;
+      }
+
+      .cls-95 {
+        opacity: .8;
+      }
+
+      .cls-159 {
+        stroke: #000;
+      }
+
+      .cls-99 {
+        fill: #b44545;
+      }
+
+      .cls-100 {
+        font-size: 13.28px;
+      }
+
+      .cls-100, .cls-106 {
+        font-family: 'AlibabaPuHuiTi_3_75_SemiBold', 'AlibabaPuHuiTi 3 75 SemiBold', Arial, 'PingFang SC', sans-serif; font-weight: 600;
+        
+      }
+
+      .cls-212 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-213 {
+        fill: #edece7;
+      }
+
+      .cls-185 {
+        fill: #dce5a3;
+      }
+
+      .cls-179 {
+        stroke: #403b30;
+        stroke-width: .75px;
+      }
+
+      .cls-186 {
+        fill: #f1c6c6;
+      }
+
+      .cls-113 {
+        font-size: 30px;
+      }
+
+      .cls-114 {
+        font-size: 8.59px;
+      }
+
+      .cls-115 {
+        font-size: 11.84px;
+      }
+
+      .cls-115, .cls-118 {
+        font-family: AdobeMingStd-Light-B5pc-H, 'Adobe Ming Std';
+        font-weight: 300;
+      }
+
+      .cls-214 {
+        fill: #f0ecfa;
+      }
+
+      .cls-194, .cls-215, .cls-216 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-215 {
+        letter-spacing: .05em;
+      }
+
+      .cls-166 {
+        stroke-dasharray: 8 8;
+      }
+
+      .cls-117 {
+        font-size: 14.7px;
+      }
+
+      .cls-217 {
+        fill: #e9ecf8;
+      }
+
+      .cls-118 {
+        font-size: 11.72px;
+      }
+
+      .cls-218 {
+        letter-spacing: .03em;
+      }
+
+      .cls-129 {
+        font-size: 19.85px;
+      }
+
+      .cls-219 {
+        letter-spacing: .01em;
+      }
+
+      .cls-220 {
+        fill: #63a51c;
+      }
+
+      .cls-221 {
+        fill: #6c4bb8;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="3236.61" y="2219.58" width="1600" height="1375.2000000000007" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-76" transform="translate(3291.3 2295.72)"><tspan x="0" y="0">ROLE-SEPARATED DECISION MATRIX   角色分离决策矩阵</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-87" transform="translate(3291.3 2343.58)"><tspan x="0" y="0">Shared evidence, separate role judgement.  共享证据，分别判断</tspan></text>
+    </g>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-87" transform="translate(4051.64 2343.58)"><tspan x="0" y="0">Three role layers; no averaging across roles.   三个角色层，不做跨角色平均</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-2" x="3291.3" y="2358.89" width="1484.24" height="306.0800000000004" rx="24" ry="24" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-104" transform="translate(3314.74 2383.89)"><tspan x="0" y="0">SHARED EVIDENCE RECORD  共享证据记录</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-195" x="3306.93" y="2395.61" width="202.28" height="60.940000000000055" rx="18.47" ry="18.47" />
+  <g class="cls-52">
+    <text class="cls-112" transform="translate(3317.86 2412.79)"><tspan x="0" y="0">Alternative set   备选方案集</tspan></text>
+  </g>
+  <rect class="cls-195" x="3526.07" y="2395.61" width="219.14" height="60.940000000000055" rx="18.47" ry="18.47" />
+  <g class="cls-52">
+    <text class="cls-112" transform="translate(3533.52 2412.79)"><tspan x="0" y="0">Criterion set   准则集</tspan></text>
+  </g>
+  <rect class="cls-195" x="3762.06" y="2395.61" width="387.71" height="60.940000000000055" rx="18.47" ry="18.47" />
+  <g class="cls-52">
+    <text class="cls-112" transform="translate(3771.98 2412.79)"><tspan x="0" y="0">Raw evidence / data   原始证据或数据</tspan></text>
+  </g>
+  <rect class="cls-195" x="4166.63" y="2395.61" width="294.99" height="60.940000000000055" rx="18.47" ry="18.47" />
+  <g class="cls-52">
+    <text class="cls-112" transform="translate(4178.4 2412.8)"><tspan x="0" y="0">Normalized values   标准化值</tspan></text>
+  </g>
+  <rect class="cls-195" x="4478.48" y="2395.61" width="278.14" height="60.940000000000055" rx="19.51" ry="19.51" />
+  <g class="cls-52">
+    <text class="cls-112" transform="translate(4488.99 2412.8)"><tspan x="0" y="0">Evidence confidence   证据置信度</tspan></text>
+  </g>
+  <rect class="cls-2" x="3291.3" y="2678.29" width="995.36" height="263.2100000000005" rx="19.19" ry="19.19" />
+  <path class="cls-221" d="M3310.83 2678.29H4267.13C4277.92 2678.29 4286.66 2687.0299999999997 4286.66 2697.82C4286.66 2708.61 4277.92 2717.3500000000004 4267.13 2717.3500000000004H3310.83C3300.04 2717.3500000000004 3291.2999999999997 2708.6100000000006 3291.2999999999997 2697.82C3291.2999999999997 2687.03 3300.0399999999995 2678.29 3310.83 2678.29Z" />
+  <rect class="cls-221" x="3291.3" y="2698.6000000000004" width="995.36" height="18.75" />
+  <circle class="cls-151" cx="3315.52" cy="2699.82" r="8.59" />
+  <g class="cls-52">
+    <text class="cls-100" transform="translate(3334.27 2703.4100000000003)"><tspan x="0" y="0">USER LAYER   使用者层</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-15" transform="translate(3979.34 2702.7200000000003)"><tspan x="0" y="0">ROLE-SPECIFIC WEIGHTS / JUDGEMENT   按角色设置权重并判断</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-184" x="3306.93" y="2725.7200000000003" width="257.81" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3375.14 2795.4700000000003)"><tspan x="0" y="0">Alternative   备选方案</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3564.74" y="2725.7200000000003" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3619.51 2795.4700000000003)"><tspan x="0" y="0">C1</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3690.22" y="2725.7200000000003" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3745.2 2795.4700000000003)"><tspan x="0" y="0">C2</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3815.7" y="2725.7200000000003" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3869.43 2795.4700000000003)"><tspan x="0" y="0">C3</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3941.18" y="2725.7200000000003" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3996.88 2795.4700000000003)"><tspan x="0" y="0">C4</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="4066.66" y="2725.7200000000003" width="202.7" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(4107.74 2795.4700000000003)"><tspan x="0" y="0">Role score   角色总分</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-150" x="3306.93" y="2804.8500000000004" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="2804.8500000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="2804.8500000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="2804.8500000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="2804.8500000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="2804.8500000000004" width="202.7" height="29.420000000000073" />
+    <rect class="cls-150" x="3306.93" y="2834.2700000000004" width="257.81" height="29.419999999999618" />
+    <rect class="cls-150" x="3564.74" y="2834.2700000000004" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3690.22" y="2834.2700000000004" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3815.7" y="2834.2700000000004" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3941.18" y="2834.2700000000004" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="4066.66" y="2834.2700000000004" width="202.7" height="29.419999999999618" />
+    <rect class="cls-150" x="3306.93" y="2863.69" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="2863.69" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="2863.69" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="2863.69" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="2863.69" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="2863.69" width="202.7" height="29.420000000000073" />
+    <rect class="cls-150" x="3306.93" y="2893.1000000000004" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="2893.1000000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="2893.1000000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="2893.1000000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="2893.1000000000004" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="2893.1000000000004" width="202.7" height="29.420000000000073" />
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+  </g>
+  <g class="cls-52">
+    <text class="cls-114" transform="translate(3306.93 2933.7200000000007)"><tspan x="0" y="0">Blank cells are fillable; “—” means this role does not score the criterion.   空白格可填写；“—”表示该角色不对该准则评分。</tspan></text>
+  </g>
+  <rect class="cls-2" x="3291.3" y="2957.120000000001" width="995.36" height="278.7099999999996" rx="18.85" ry="18.85" />
+  <path class="cls-196" d="M3310.83 2957.120000000001H4267.13C4277.92 2957.120000000001 4286.66 2965.8600000000006 4286.66 2979.850000000001C4286.66 2990.640000000001 4277.92 3000.880000000001 4267.13 3000.880000000001H3310.83C3300.04 3000.880000000001 3291.2999999999997 2990.6400000000012 3291.2999999999997 2979.850000000001C3291.2999999999997 2965.860000000001 3300.0399999999995 2957.120000000001 3310.83 2957.120000000001Z" />
+  <rect class="cls-196" x="3291.3" y="2980.6300000000006" width="995.36" height="20.25" />
+  <circle class="cls-151" cx="3315.52" cy="2981.850000000001" r="8.59" />
+  <g class="cls-52">
+    <text class="cls-100" transform="translate(3334.27 2985.4400000000005)"><tspan x="0" y="0">COMMISSIONER LAYER   委托方层</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-15" transform="translate(3979.34 2984.7500000000005)"><tspan x="0" y="0">ROLE-SPECIFIC WEIGHTS / JUDGEMENT   按角色设置权重并判断</tspan></text>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-114" transform="translate(3306.93 3226.4500000000007)"><tspan x="0" y="0">Blank cells are fillable; “—” means this role does not score the criterion.   空白格可填写；“—”表示该角色不对该准则评分。</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-2" x="3291.3" y="3251.4500000000007" width="995.36" height="214.71000000000004" rx="18.45" ry="18.45" />
+  <rect class="cls-3" x="3291.3" y="2678.29" width="995.36" height="263.2100000000005" rx="19.19" ry="19.19" />
+  <rect class="cls-3" x="3291.3" y="2957.120000000001" width="995.36" height="278.7099999999996" rx="18.85" ry="18.85" />
+  <path class="cls-174" d="M3310.83 3251.4500000000007H4267.13C4277.92 3251.4500000000007 4286.66 3260.1900000000005 4286.66 3270.980000000001C4286.66 3284.270000000001 4277.92 3293.010000000001 4267.13 3293.010000000001H3310.83C3300.04 3293.010000000001 3291.2999999999997 3284.2700000000013 3291.2999999999997 3270.980000000001C3291.2999999999997 3260.190000000001 3300.0399999999995 3251.4500000000007 3310.83 3251.4500000000007Z" />
+  <rect class="cls-174" x="3291.3" y="3271.7600000000007" width="995.36" height="21.25" />
+  <circle class="cls-151" cx="3315.52" cy="3272.9900000000007" r="8.59" />
+  <g class="cls-52">
+    <text class="cls-100" transform="translate(3334.27 3276.5700000000006)"><tspan x="0" y="0">BUILDER LAYER   开发方层</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-15" transform="translate(3979.34 3275.8800000000006)"><tspan x="0" y="0">ROLE-SPECIFIC WEIGHTS / JUDGEMENT   按角色设置权重并判断</tspan></text>
+  </g>
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-114" transform="translate(3306.93 3456.7800000000007)"><tspan x="0" y="0">Blank cells are fillable; “—” means this role does not score the criterion.   空白格可填写；“—”表示该角色不对该准则评分。</tspan></text>
+    </g>
+  </g>
+  <rect class="cls-2" x="4306.79" y="2678.29" width="468.75" height="787.8700000000008" rx="24" ry="24" />
+  <path class="cls-168" d="M4329.45 2678.29H4752.88C4765.39 2678.29 4775.54 2688.43 4775.54 2700.94C4775.54 2713.4500000000003 4765.39 2723.59 4752.88 2723.59H4329.45C4316.94 2723.59 4306.79 2713.4500000000003 4306.79 2700.94C4306.79 2688.43 4316.94 2678.29 4329.45 2678.29Z" />
+  <rect class="cls-168" x="4306.79" y="2700.1600000000003" width="468.75" height="23.440000000000055" />
+  <g class="cls-52">
+    <g class="cls-52">
+      <text class="cls-100" transform="translate(4325.54 2707.19)"><tspan x="0" y="0">CROSS-ROLE SUMMARY   跨角色汇总</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-1" x="4320.85" y="2786.5800000000004" width="440.62" height="145.80000000000064" rx="15" ry="15" />
+    <g class="cls-52">
+      <g class="cls-52">
+        </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 2834.7500000000005)"><tspan x="0" y="0">Feasible / vetoed   可行或否决</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 2854.2800000000007)"><tspan x="0" y="0">User score</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 2869.7900000000004)"><tspan x="0" y="0">使用者分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.07 2854.2800000000007)"><tspan x="0" y="0">Commissioner score</tspan></text>
+        <text class="cls-114" transform="translate(4470.07 2869.7900000000004)"><tspan x="0" y="0">委托方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.15 2854.2800000000007)"><tspan x="0" y="0">Builder score</tspan></text>
+        <text class="cls-114" transform="translate(4617.15 2869.7900000000004)"><tspan x="0" y="0">开发方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 2899.4200000000005)"><tspan x="0" y="0">Disagreement range</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 2909.7300000000005)"><tspan x="0" y="0">分歧范围</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.69 2899.4200000000005)"><tspan x="0" y="0">Sensitivity flag</tspan></text>
+        <text class="cls-114" transform="translate(4470.69 2909.7300000000005)"><tspan x="0" y="0">敏感性标记</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.94 2899.4200000000005)"><tspan x="0" y="0">Unresolved conflict IDs</tspan></text>
+        <text class="cls-114" transform="translate(4617.94 2909.7300000000005)"><tspan x="0" y="0">未解决冲突编号</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-1" x="4320.85" y="2944.360000000001" width="440.62" height="196.69999999999982" rx="15" ry="15" />
+    <g class="cls-52">
+      <g class="cls-52">
+        </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 2990.5300000000007)"><tspan x="0" y="0">Feasible / vetoed   可行或否决</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3011.560000000001)"><tspan x="0" y="0">User score</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 3072.870000000001)"><tspan x="0" y="0">使用者分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.07 3011.560000000001)"><tspan x="0" y="0">Commissioner score</tspan></text>
+        <text class="cls-114" transform="translate(4470.07 3072.870000000001)"><tspan x="0" y="0">委托方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.15 3011.560000000001)"><tspan x="0" y="0">Builder score</tspan></text>
+        <text class="cls-114" transform="translate(4617.15 3072.870000000001)"><tspan x="0" y="0">开发方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3097.3000000000006)"><tspan x="0" y="0">Disagreement range</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 3107.6100000000006)"><tspan x="0" y="0">分歧范围</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.69 3097.3000000000006)"><tspan x="0" y="0">Sensitivity flag</tspan></text>
+        <text class="cls-114" transform="translate(4470.69 3107.6100000000006)"><tspan x="0" y="0">敏感性标记</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.94 3097.3000000000006)"><tspan x="0" y="0">Unresolved conflict IDs</tspan></text>
+        <text class="cls-114" transform="translate(4617.94 3107.6100000000006)"><tspan x="0" y="0">未解决冲突编号</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-1" x="4320.85" y="3158.5000000000005" width="440.62" height="137.9000000000001" rx="15" ry="15" />
+    <g class="cls-52">
+      <g class="cls-52">
+        </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3206.67)"><tspan x="0" y="0">Feasible / vetoed   可行或否决</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3231.4000000000005)"><tspan x="0" y="0">User score</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 3241.7100000000005)"><tspan x="0" y="0">使用者分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.07 3231.4000000000005)"><tspan x="0" y="0">Commissioner score</tspan></text>
+        <text class="cls-114" transform="translate(4470.07 3241.7100000000005)"><tspan x="0" y="0">委托方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.15 3231.4000000000005)"><tspan x="0" y="0">Builder score</tspan></text>
+        <text class="cls-114" transform="translate(4617.15 3241.7100000000005)"><tspan x="0" y="0">开发方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3266.1400000000003)"><tspan x="0" y="0">Disagreement range</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 3276.4500000000007)"><tspan x="0" y="0">分歧范围</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.69 3266.1400000000003)"><tspan x="0" y="0">Sensitivity flag</tspan></text>
+        <text class="cls-114" transform="translate(4470.69 3276.4500000000007)"><tspan x="0" y="0">敏感性标记</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.94 3266.1400000000003)"><tspan x="0" y="0">Unresolved conflict IDs</tspan></text>
+        <text class="cls-114" transform="translate(4617.94 3276.4500000000007)"><tspan x="0" y="0">未解决冲突编号</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-1" x="4320.85" y="3308.6400000000003" width="440.62" height="145.80000000000018" rx="15" ry="15" />
+    <g class="cls-52">
+      <g class="cls-52">
+        </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3356.810000000001)"><tspan x="0" y="0">Feasible / vetoed   可行或否决</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3376.3400000000006)"><tspan x="0" y="0">User score</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 3391.850000000001)"><tspan x="0" y="0">使用者分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.07 3376.3400000000006)"><tspan x="0" y="0">Commissioner score</tspan></text>
+        <text class="cls-114" transform="translate(4470.07 3391.850000000001)"><tspan x="0" y="0">委托方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.15 3376.3400000000006)"><tspan x="0" y="0">Builder score</tspan></text>
+        <text class="cls-114" transform="translate(4617.15 3391.850000000001)"><tspan x="0" y="0">开发方分数</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4333.35 3421.4800000000005)"><tspan x="0" y="0">Disagreement range</tspan></text>
+        <text class="cls-114" transform="translate(4333.35 3431.790000000001)"><tspan x="0" y="0">分歧范围</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4470.69 3421.4800000000005)"><tspan x="0" y="0">Sensitivity flag</tspan></text>
+        <text class="cls-114" transform="translate(4470.69 3431.790000000001)"><tspan x="0" y="0">敏感性标记</tspan></text>
+      </g>
+    </g>
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-114" transform="translate(4617.94 3421.4800000000005)"><tspan x="0" y="0">Unresolved conflict IDs</tspan></text>
+        <text class="cls-114" transform="translate(4617.94 3431.790000000001)"><tspan x="0" y="0">未解决冲突编号</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect class="cls-168" x="3291.3" y="3481.500000000001" width="1484.24" height="66.40999999999985" rx="18" ry="18" />
+  <circle class="cls-210" cx="3315.56" cy="3504.9400000000005" r="5.47" />
+  <g class="cls-52">
+    <text class="cls-51" transform="translate(3329.74 3510.4100000000008)"><tspan x="0" y="0">Shared evidence; separate role judgement.   共享证据，分别判断。</tspan></text>
+  </g>
+  <g class="cls-52">
+    <text class="cls-22" transform="translate(3328.8 3530.4000000000005)"><tspan x="0" y="0">No averaging across roles. A role scores only the criteria it can credibly judge; unresolved differences remain traceable.   不把三方分数简单平均。每个角色只评价其有可信判断能力的准则；未解决的差异继续保留并可追踪。</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-184" x="3306.93" y="3008.1800000000007" width="257.81" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3375.14 3077.9300000000007)"><tspan x="0" y="0">Alternative   备选方案</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3564.74" y="3008.1800000000007" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3627.48 3077.9300000000007)"><tspan x="0" y="0">C1</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3690.22" y="3008.1800000000007" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3745.2 3077.9300000000007)"><tspan x="0" y="0">C2</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3815.7" y="3008.1800000000007" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3869.43 3077.9300000000007)"><tspan x="0" y="0">C3</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3941.18" y="3008.1800000000007" width="125.48" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3996.88 3077.9300000000007)"><tspan x="0" y="0">C4</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="4066.66" y="3008.1800000000007" width="202.7" height="79.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(4107.74 3077.9300000000007)"><tspan x="0" y="0">Role score   角色总分</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-150" x="3306.93" y="3087.3000000000006" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="3087.3000000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="3087.3000000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="3087.3000000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="3087.3000000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="3087.3000000000006" width="202.7" height="29.420000000000073" />
+    <rect class="cls-150" x="3306.93" y="3116.7200000000007" width="257.81" height="40.219999999999345" />
+    <rect class="cls-150" x="3564.74" y="3116.7200000000007" width="125.48" height="40.219999999999345" />
+    <rect class="cls-150" x="3690.22" y="3116.7200000000007" width="125.48" height="40.219999999999345" />
+    <rect class="cls-150" x="3815.7" y="3116.7200000000007" width="125.48" height="40.219999999999345" />
+    <rect class="cls-150" x="3941.18" y="3116.7200000000007" width="125.48" height="40.219999999999345" />
+    <rect class="cls-150" x="4066.66" y="3116.7200000000007" width="202.7" height="40.219999999999345" />
+    <rect class="cls-150" x="3306.93" y="3156.9400000000005" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="3156.9400000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="3156.9400000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="3156.9400000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="3156.9400000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="3156.9400000000005" width="202.7" height="29.420000000000073" />
+    <rect class="cls-150" x="3306.93" y="3186.3600000000006" width="257.81" height="29.419999999999618" />
+    <rect class="cls-150" x="3564.74" y="3186.3600000000006" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3690.22" y="3186.3600000000006" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3815.7" y="3186.3600000000006" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3941.18" y="3186.3600000000006" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="4066.66" y="3186.3600000000006" width="202.7" height="29.419999999999618" />
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+  </g>
+  <g>
+    <rect class="cls-184" x="3306.93" y="3299.2300000000005" width="257.81" height="28.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3375.14 3317.9800000000005)"><tspan x="0" y="0">Alternative   备选方案</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3564.74" y="3299.2300000000005" width="125.48" height="28.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3627.48 3317.9800000000005)"><tspan x="0" y="0">C1</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3690.22" y="3299.2300000000005" width="125.48" height="28.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3745.2 3317.9800000000005)"><tspan x="0" y="0">C2</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3815.7" y="3299.2300000000005" width="125.48" height="28.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3869.43 3317.9800000000005)"><tspan x="0" y="0">C3</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="3941.18" y="3299.2300000000005" width="125.48" height="28.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(3996.88 3317.9800000000005)"><tspan x="0" y="0">C4</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-184" x="4066.66" y="3299.2300000000005" width="202.7" height="28.11999999999989" />
+    <g class="cls-52">
+      <g class="cls-52">
+        <text class="cls-112" transform="translate(4107.74 3317.9800000000005)"><tspan x="0" y="0">Role score   角色总分</tspan></text>
+      </g>
+    </g>
+    <rect class="cls-150" x="3306.93" y="3327.3600000000006" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="3327.3600000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="3327.3600000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="3327.3600000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="3327.3600000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="3327.3600000000006" width="202.7" height="29.420000000000073" />
+    <rect class="cls-150" x="3306.93" y="3356.770000000001" width="257.81" height="29.419999999999618" />
+    <rect class="cls-150" x="3564.74" y="3356.770000000001" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3690.22" y="3356.770000000001" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3815.7" y="3356.770000000001" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="3941.18" y="3356.770000000001" width="125.48" height="29.419999999999618" />
+    <rect class="cls-150" x="4066.66" y="3356.770000000001" width="202.7" height="29.419999999999618" />
+    <rect class="cls-150" x="3306.93" y="3386.1900000000005" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="3386.1900000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="3386.1900000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="3386.1900000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="3386.1900000000005" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="3386.1900000000005" width="202.7" height="29.420000000000073" />
+    <rect class="cls-150" x="3306.93" y="3415.6100000000006" width="257.81" height="29.420000000000073" />
+    <rect class="cls-150" x="3564.74" y="3415.6100000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3690.22" y="3415.6100000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3815.7" y="3415.6100000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="3941.18" y="3415.6100000000006" width="125.48" height="29.420000000000073" />
+    <rect class="cls-150" x="4066.66" y="3415.6100000000006" width="202.7" height="29.420000000000073" />
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+    <g class="cls-52">
+      </g>
+  </g>
+  <rect class="cls-3" x="3291.3" y="3251.4500000000007" width="995.36" height="214.71000000000004" rx="18.45" ry="18.45" />
+  <rect class="cls-3" x="4306.79" y="2678.29" width="468.75" height="787.8700000000008" rx="24" ry="24" />
+  <g id="decision_matrix__alternative_set" data-field="alternative_set"><g data-shared-field="alternative_set" data-in-field="true" data-field-box="[3318, 2420, 184, 232.80000000000018]" data-entry-ids="E00018,E00020,E00021,E00022" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "alternative_set", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "记录口径校准：统一三档短句试记两天", "alternatives": [{"value": "记录口径校准：统一三档短句试记两天", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P2-record-calibration", {"status": "proposed", "value": "记录口径校准：统一三档短句试记两天", "alternatives": [{"value": "记录口径校准：统一三档短句试记两天", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P3-record-calibration", {"status": "proposed", "value": "记录口径校准：统一三档短句试记两天", "alternatives": [{"value": "记录口径校准：统一三档短句试记两天", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P1-record-calibration", {"status": "proposed", "value": "记录口径校准：统一三档短句试记两天", "alternatives": [{"value": "记录口径校准：统一三档短句试记两天", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3318" y="2432" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3318" dy="0">DM-P6-record-</tspan><tspan x="3318" dy="16.200000000000003">calibration · 记录口径校准</tspan><tspan x="3318" dy="16.200000000000003">：统一三档短句试记两天</tspan><tspan x="3318" dy="16.200000000000003">DM-P2-record-</tspan><tspan x="3318" dy="16.200000000000003">calibration · 记录口径校准</tspan><tspan x="3318" dy="16.200000000000003">：统一三档短句试记两天</tspan><tspan x="3318" dy="16.200000000000003">DM-P3-record-</tspan><tspan x="3318" dy="16.200000000000003">calibration · 记录口径校准</tspan><tspan x="3318" dy="16.200000000000003">：统一三档短句试记两天</tspan><tspan x="3318" dy="16.200000000000003">DM-P1-record-</tspan><tspan x="3318" dy="16.200000000000003">calibration · 记录口径校准</tspan><tspan x="3318" dy="16.200000000000003">：统一三档短句试记两天</tspan></text></g></g><g id="decision_matrix__criterion_set" data-field="criterion_set"><g data-shared-field="criterion_set" data-in-field="true" data-field-box="[3534, 2420, 205, 232.80000000000018]" data-entry-ids="E00018,E00020,E00021,E00022" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "criterion_set", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "资助侧关注：证据可比性、前台负担、是否足以进入后续效果比较", "alternatives": [{"value": "资助侧关注：证据可比性、前台负担、是否足以进入后续效果比较", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P2-record-calibration", {"status": "proposed", "value": "无障碍/用户层关注：三档区分稳定性、隐私最小化、能否暴露流程障碍", "alternatives": [{"value": "无障碍/用户层关注：三档区分稳定性、隐私最小化、能否暴露流程障碍", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P3-record-calibration", {"status": "proposed", "value": "服务运营侧关注：班次执行一致性、前台记录负担、是否会诱发额外信息收集", "alternatives": [{"value": "服务运营侧关注：班次执行一致性、前台记录负担、是否会诱发额外信息收集", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P1-record-calibration", {"status": "proposed", "value": "学生侧关注：是否稳定区分‘需协助/失败卡住’、是否不额外收集敏感信息、是否能暴露被流程卡住的人", "alternatives": [{"value": "学生侧关注：是否稳定区分‘需协助/失败卡住’、是否不额外收集敏感信息、是否能暴露被流程卡住的人", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3534" y="2432" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3534" dy="0">DM-P6-record-calibration ·</tspan><tspan x="3534" dy="16.200000000000003"> 资助侧关注：证据可比性、前台负</tspan><tspan x="3534" dy="16.200000000000003">担、是否足以进入后续效果比较</tspan><tspan x="3534" dy="16.200000000000003">DM-P2-record-calibration ·</tspan><tspan x="3534" dy="16.200000000000003"> 无障碍/用户层关注：三档区分稳定</tspan><tspan x="3534" dy="16.200000000000003">性、隐私最小化、能否暴露流程障碍</tspan><tspan x="3534" dy="16.200000000000003">DM-P3-record-calibration ·</tspan><tspan x="3534" dy="16.200000000000003"> 服务运营侧关注：班次执行一致性</tspan><tspan x="3534" dy="16.200000000000003">、前台记录负担、是否会诱发额外信</tspan><tspan x="3534" dy="16.200000000000003">息收集</tspan><tspan x="3534" dy="16.200000000000003">DM-P1-record-calibration ·</tspan><tspan x="3534" dy="16.200000000000003"> 学生侧关注：是否稳定区分‘需协助</tspan><tspan x="3534" dy="16.200000000000003">/失败卡住’、是否不额外收集敏感信</tspan><tspan x="3534" dy="16.200000000000003">息、是否能暴露被流程卡住的人</tspan></text></g></g><g id="decision_matrix__raw_evidence" data-field="raw_evidence"><g data-shared-field="raw_evidence" data-in-field="true" data-field-box="[3773, 2420, 358, 232.80000000000018]" data-entry-ids="E00021,E00022" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "raw_evidence", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": "当前仅有公开执行承诺；尚无两天班次原始记录", "alternatives": [{"value": "当前仅有公开执行承诺；尚无两天班次原始记录", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P1-record-calibration", {"status": "proposed", "value": "当前已有P3、P5公开执行承诺；尚无两天试记原始记录。试记后至少看：三档分布、卡住环节分布、是否出现‘需协助/失败卡住’混写。", "alternatives": [{"value": "当前已有P3、P5公开执行承诺；尚无两天试记原始记录。试记后至少看：三档分布、卡住环节分布、是否出现‘需协助/失败卡住’混写。", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3773" y="2432" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3773" dy="0">DM-P3-record-calibration · 当前仅有公开执行承诺；尚</tspan><tspan x="3773" dy="16.200000000000003">无两天班次原始记录</tspan><tspan x="3773" dy="16.200000000000003">DM-P1-record-calibration · 当前已有P3、P5公开执行</tspan><tspan x="3773" dy="16.200000000000003">承诺；尚无两天试记原始记录。试记后至少看：三档分布、卡住</tspan><tspan x="3773" dy="16.200000000000003">环节分布、是否出现‘需协助/失败卡住’混写。</tspan></text></g></g><g id="decision_matrix__normalized_values" data-field="normalized_values" /><g id="decision_matrix__evidence_confidence" data-field="evidence_confidence"><g data-shared-field="evidence_confidence" data-in-field="true" data-field-box="[4490, 2420, 255, 232.80000000000018]" data-entry-ids="E00018,E00020,E00021,E00022" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "evidence_confidence", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "当前仅为预执行状态；无现场数据。若两天内各班次按原句一致记录、且不额外收集个人信息，则可把证据置信度从未知提升到低-中，用于判断是否进入下一步比较。", "alternatives": [{"value": "当前仅为预执行状态；无现场数据。若两天内各班次按原句一致记录、且不额外收集个人信息，则可把证据置信度从未知提升到低-中，用于判断是否进入下一步比较。", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P2-record-calibration", {"status": "proposed", "value": "当前无现场原始记录，且P3尚未公开确认服务台各班次按原句统一执行；现阶段证据置信度为低。", "alternatives": [{"value": "当前无现场原始记录，且P3尚未公开确认服务台各班次按原句统一执行；现阶段证据置信度为低。", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P3-record-calibration", {"status": "proposed", "value": "现阶段为预执行；已有统一口径与服务台承诺，但未产生日志前仍属低置信", "alternatives": [{"value": "现阶段为预执行；已有统一口径与服务台承诺，但未产生日志前仍属低置信", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P1-record-calibration", {"status": "proposed", "value": "现阶段仅能给低置信判断：可启动口径校准，但不能当成方案成效证据。", "alternatives": [{"value": "现阶段仅能给低置信判断：可启动口径校准，但不能当成方案成效证据。", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4490" y="2432" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="4490" dy="0">DM-P6-record-calibration · 当前仅</tspan><tspan x="4490" dy="16.200000000000003">为预执行状态；无现场数据。若两天内各班次</tspan><tspan x="4490" dy="16.200000000000003">按原句一致记录、且不额外收集个人信息，则</tspan><tspan x="4490" dy="16.200000000000003">可把证据置信度从未知提升到低-中，用于判断</tspan><tspan x="4490" dy="16.200000000000003">是否进入下一步比较。</tspan><tspan x="4490" dy="16.200000000000003">DM-P2-record-calibration · 当前无</tspan><tspan x="4490" dy="16.200000000000003">现场原始记录，且P3尚未公开确认服务台各班</tspan><tspan x="4490" dy="16.200000000000003">次按原句统一执行；现阶段证据置信度为低。</tspan><tspan x="4490" dy="16.200000000000003">DM-P3-record-calibration · 现阶段</tspan><tspan x="4490" dy="16.200000000000003">为预执行；已有统一口径与服务台承诺，但未</tspan><tspan x="4490" dy="16.200000000000003">产生日志前仍属低置信</tspan><tspan x="4490" dy="16.200000000000003">DM-P1-record-calibration · 现阶段</tspan><tspan x="4490" dy="16.200000000000003">仅能给低置信判断：可启动口径校准，但不能</tspan><tspan x="4490" dy="16.200000000000003">当成方案成效证据。</tspan></text></g></g><g id="decision_matrix__alternative" data-field="alternative"><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 2808.8, 240, 22.200000000000273]" data-entry-ids="E00018" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="2820.8" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3091.3000000000006, 240, 22.200000000000273]" data-entry-ids="E00018" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3103.3000000000006" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3331.4000000000005, 240, 22.200000000000273]" data-entry-ids="E00018" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3343.4000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[4333, 2792.8, 401, 22.199999999999818]" data-entry-ids="E00018" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4333" y="2804.8" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="4333" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 2838.0000000000005, 240, 22.199999999999818]" data-entry-ids="E00020" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="2850.0000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3131.3000000000006, 240, 22.199999999999818]" data-entry-ids="E00020" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3143.3000000000006" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3360.600000000001, 240, 22.199999999999818]" data-entry-ids="E00020" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3372.600000000001" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[4333, 2950.8000000000006, 401, 22.199999999999818]" data-entry-ids="E00020" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4333" y="2962.8000000000006" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="4333" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 2867.2000000000003, 240, 22.200000000000273]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="2879.2000000000003" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3160.5000000000005, 240, 22.200000000000273]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3172.5000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3389.8000000000006, 240, 22.200000000000273]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3401.8000000000006" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[4333, 3164.9000000000005, 401, 24.199999999999818]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4333" y="3176.9000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="4333" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 2896.4000000000005, 240, 22.200000000000273]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="2908.4000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3189.7000000000007, 240, 22.199999999999818]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3201.7000000000007" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[3314, 3419.000000000001, 240, 22.199999999999818]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3314" y="3431.000000000001" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3314" dy="0">统一三档短句试记两天</tspan></text></g><g data-shared-field="alternative" data-in-field="true" data-field-box="[4333, 3315.0000000000005, 401, 22.199999999999818]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "alternative", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": "统一三档短句试记两天", "alternatives": [{"value": "统一三档短句试记两天", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4333" y="3327.0000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="4333" dy="0">统一三档短句试记两天</tspan></text></g></g><g id="decision_matrix__user_c1" data-field="user_c1"><g data-shared-field="user_c1" data-in-field="true" data-field-box="[3571.0, 2896.4000000000005, 108, 22.200000000000273]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "user_c1", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": 4.0, "alternatives": [{"value": 4.0, "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3571.0" y="2908.4000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3571.0" dy="0">4.0</tspan></text></g></g><g id="decision_matrix__user_c2" data-field="user_c2"><g data-shared-field="user_c2" data-in-field="true" data-field-box="[3696.5, 2896.4000000000005, 108, 22.200000000000273]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "user_c2", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": 4.0, "alternatives": [{"value": 4.0, "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3696.5" y="2908.4000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3696.5" dy="0">4.0</tspan></text></g></g><g id="decision_matrix__user_c3" data-field="user_c3"><g data-shared-field="user_c3" data-in-field="true" data-field-box="[3822.0, 2896.4000000000005, 108, 22.200000000000273]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "user_c3", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": 4.0, "alternatives": [{"value": 4.0, "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3822.0" y="2908.4000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3822.0" dy="0">4.0</tspan></text></g></g><g id="decision_matrix__user_c4" data-field="user_c4" /><g id="decision_matrix__user_score" data-field="user_score" /><g id="decision_matrix__user_judgement" data-field="user_judgement"><g data-shared-field="user_judgement" data-in-field="true" data-field-box="[3525, 2723.8, 725, 60.0]" data-entry-ids="E00020,E00022" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "user_judgement", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": "我方只看用户层三点：1) ‘需协助’与‘失败卡住’是否被稳定区分；2) 是否未新增敏感信息收集；3) 是否只记录卡住环节而不掩盖流程障碍。P3未确认前，仅能作条件性正面判断，不作成效评分。", "alternatives": [{"value": "我方只看用户层三点：1) ‘需协助’与‘失败卡住’是否被稳定区分；2) 是否未新增敏感信息收集；3) 是否只记录卡住环节而不掩盖流程障碍。P3未确认前，仅能作条件性正面判断，不作成效评分。", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P1-record-calibration", {"status": "proposed", "value": "我只按用户层判断三点：1）‘需协助’与‘失败卡住’是否被稳定区分；2）是否未额外追问个人信息；3）是否只记卡住环节而不掩盖流程障碍。未有两天原始记录前，不做成效评分，只判断能否启动校准。", "alternatives": [{"value": "我只按用户层判断三点：1）‘需协助’与‘失败卡住’是否被稳定区分；2）是否未额外追问个人信息；3）是否只记卡住环节而不掩盖流程障碍。未有两天原始记录前，不做成效评分，只判断能否启动校准。", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3525" y="2733.8" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="3525" dy="0">DM-P2-record-calibration · 我方只看用户层三点：1) ‘需协助’与‘失败卡住’是否被稳定区分；2) 是否未新增敏感信息收集；3) 是否只记录卡住</tspan><tspan x="3525" dy="13.5">环节而不掩盖流程障碍。P3未确认前，仅能作条件性正面判断，不作成效评分。</tspan><tspan x="3525" dy="13.5">DM-P1-record-calibration · 我只按用户层判断三点：1）‘需协助’与‘失败卡住’是否被稳定区分；2）是否未额外追问个人信息；3）是否只记卡住环</tspan><tspan x="3525" dy="13.5">节而不掩盖流程障碍。未有两天原始记录前，不做成效评分，只判断能否启动校准。</tspan></text></g></g><g id="decision_matrix__commissioner_c1" data-field="commissioner_c1"><g data-shared-field="commissioner_c1" data-in-field="true" data-field-box="[3571.0, 3160.5000000000005, 108, 22.200000000000273]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "commissioner_c1", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": 4.0, "alternatives": [{"value": 4.0, "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3571.0" y="3172.5000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3571.0" dy="0">4.0</tspan></text></g></g><g id="decision_matrix__commissioner_c2" data-field="commissioner_c2"><g data-shared-field="commissioner_c2" data-in-field="true" data-field-box="[3696.5, 3160.5000000000005, 108, 22.200000000000273]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "commissioner_c2", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": 3.0, "alternatives": [{"value": 3.0, "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3696.5" y="3172.5000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#302e29" data-value="true"><tspan x="3696.5" dy="0">3.0</tspan></text></g></g><g id="decision_matrix__commissioner_c3" data-field="commissioner_c3" /><g id="decision_matrix__commissioner_c4" data-field="commissioner_c4" /><g id="decision_matrix__commissioner_score" data-field="commissioner_score" /><g id="decision_matrix__commissioner_judgement" data-field="commissioner_judgement"><g data-shared-field="commissioner_judgement" data-in-field="true" data-field-box="[3525, 3006.3000000000006, 725, 60.0]" data-entry-ids="E00018,E00021" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "commissioner_judgement", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "我方权重先看三点：1) 各班次是否按同一口径记录；2) 是否未新增敏感信息收集；3) 前台记录负担是否可控。没有两天原始记录前，不给成效分，只判断能否进入下一阶段证据比较。", "alternatives": [{"value": "我方权重先看三点：1) 各班次是否按同一口径记录；2) 是否未新增敏感信息收集；3) 前台记录负担是否可控。没有两天原始记录前，不给成效分，只判断能否进入下一阶段证据比较。", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}], ["DM-P3-record-calibration", {"status": "proposed", "value": "我只按本层判断三点：1) 各班次是否按原句记录；2) 是否未额外追问个人信息；3) 当班填写负担是否可控。未有两天原始记录前，不给成效分，只判断可否启动校准。", "alternatives": [{"value": "我只按本层判断三点：1) 各班次是否按原句记录；2) 是否未额外追问个人信息；3) 当班填写负担是否可控。未有两天原始记录前，不给成效分，只判断可否启动校准。", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="3525" y="3016.3000000000006" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="3525" dy="0">DM-P6-record-calibration · 我方权重先看三点：1) 各班次是否按同一口径记录；2) 是否未新增敏感信息收集；3) 前台记录负担是否可控。没有两</tspan><tspan x="3525" dy="13.5">天原始记录前，不给成效分，只判断能否进入下一阶段证据比较。</tspan><tspan x="3525" dy="13.5">DM-P3-record-calibration · 我只按本层判断三点：1) 各班次是否按原句记录；2) 是否未额外追问个人信息；3) 当班填写负担是否可控。未有两天</tspan><tspan x="3525" dy="13.5">原始记录前，不给成效分，只判断可否启动校准。</tspan></text></g></g><g id="decision_matrix__builder_c1" data-field="builder_c1" /><g id="decision_matrix__builder_c2" data-field="builder_c2" /><g id="decision_matrix__builder_c3" data-field="builder_c3" /><g id="decision_matrix__builder_c4" data-field="builder_c4" /><g id="decision_matrix__builder_score" data-field="builder_score" /><g id="decision_matrix__builder_judgement" data-field="builder_judgement" /><g id="decision_matrix__feasibility" data-field="feasibility"><g data-shared-field="feasibility" data-in-field="true" data-field-box="[4505, 2819.0, 226, 20.000000000000455]" data-entry-ids="E00018" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "feasibility", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "conditional", "alternatives": [{"value": "conditional", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4505" y="2829.0" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4505" dy="0">conditional</tspan></text></g><g data-shared-field="feasibility" data-in-field="true" data-field-box="[4505, 2977.0000000000005, 226, 19.5]" data-entry-ids="E00020" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "feasibility", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": "conditional", "alternatives": [{"value": "conditional", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4505" y="2987.0000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4505" dy="0">conditional</tspan></text></g><g data-shared-field="feasibility" data-in-field="true" data-field-box="[4505, 3193.1000000000004, 226, 23.200000000000273]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "feasibility", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": "feasible", "alternatives": [{"value": "feasible", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4505" y="3203.1000000000004" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4505" dy="0">feasible</tspan></text></g><g data-shared-field="feasibility" data-in-field="true" data-field-box="[4505, 3341.2000000000003, 226, 20.000000000000455]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "feasibility", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": "conditional", "alternatives": [{"value": "conditional", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4505" y="3351.2000000000003" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4505" dy="0">conditional</tspan></text></g></g><g id="decision_matrix__disagreement_range" data-field="disagreement_range" /><g id="decision_matrix__sensitivity_flag" data-field="sensitivity_flag"><g data-shared-field="sensitivity_flag" data-in-field="true" data-field-box="[4548, 2897.4000000000005, 58, 22.200000000000273]" data-entry-ids="E00018" data-entry-id="E00018" tabindex="0" role="button"><title>{"field": "sensitivity_flag", "records": [["DM-P6-record-calibration", {"status": "proposed", "value": "high", "alternatives": [{"value": "high", "sources": [{"entry_id": "E00018", "participant_id": "P6", "participant_role": "项目资助负责人", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4548" y="2907.4000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4548" dy="0">high</tspan></text></g><g data-shared-field="sensitivity_flag" data-in-field="true" data-field-box="[4548, 3095.5000000000005, 58, 33.0]" data-entry-ids="E00020" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "sensitivity_flag", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": "high", "alternatives": [{"value": "high", "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4548" y="3105.5000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4548" dy="0">high</tspan></text></g><g data-shared-field="sensitivity_flag" data-in-field="true" data-field-box="[4548, 3264.3000000000006, 58, 19.5]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "sensitivity_flag", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": "high", "alternatives": [{"value": "high", "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4548" y="3274.3000000000006" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4548" dy="0">high</tspan></text></g><g data-shared-field="sensitivity_flag" data-in-field="true" data-field-box="[4548, 3419.6000000000004, 58, 22.200000000000273]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "sensitivity_flag", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": "high", "alternatives": [{"value": "high", "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4548" y="3429.6000000000004" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4548" dy="0">high</tspan></text></g></g><g id="decision_matrix__unresolved_conflict_ids" data-field="unresolved_conflict_ids"><g data-shared-field="unresolved_conflict_ids" data-in-field="true" data-field-box="[4710, 3095.5000000000005, 57, 33.0]" data-entry-ids="E00020" data-entry-id="E00020" tabindex="0" role="button"><title>{"field": "unresolved_conflict_ids", "records": [["DM-P2-record-calibration", {"status": "proposed", "value": ["I00112", "I00110"], "alternatives": [{"value": ["I00112", "I00110"], "sources": [{"entry_id": "E00020", "participant_id": "P2", "participant_role": "无障碍服务代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4710" y="3105.5000000000005" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4710" dy="0">I00112+</tspan><tspan x="4710" dy="13.5">I00110</tspan></text></g><g data-shared-field="unresolved_conflict_ids" data-in-field="true" data-field-box="[4710, 3264.3000000000006, 57, 19.5]" data-entry-ids="E00021" data-entry-id="E00021" tabindex="0" role="button"><title>{"field": "unresolved_conflict_ids", "records": [["DM-P3-record-calibration", {"status": "proposed", "value": ["I00109"], "alternatives": [{"value": ["I00109"], "sources": [{"entry_id": "E00021", "participant_id": "P3", "participant_role": "图书馆服务主管", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4710" y="3274.3000000000006" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4710" dy="0">I00109</tspan></text></g><g data-shared-field="unresolved_conflict_ids" data-in-field="true" data-field-box="[4710, 3419.6000000000004, 57, 22.200000000000273]" data-entry-ids="E00022" data-entry-id="E00022" tabindex="0" role="button"><title>{"field": "unresolved_conflict_ids", "records": [["DM-P1-record-calibration", {"status": "proposed", "value": ["I00119"], "alternatives": [{"value": ["I00119"], "sources": [{"entry_id": "E00022", "participant_id": "P1", "participant_role": "学生代表", "status": "proposed", "supporters": [], "challengers": []}]}]}]]}</title><text x="4710" y="3429.6000000000004" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="10" fill="#302e29" data-value="true"><tspan x="4710" dy="0">I00119</tspan></text></g></g><text x="3252.61" y="2202.58" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="12" fill="#544970"><tspan x="3252.61" dy="0">共享工具 · 1/1 页 · 作者、支持和质疑可点击查看</tspan></text></svg>

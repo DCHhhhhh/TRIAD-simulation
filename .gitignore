@@ -1,0 +1,19 @@
+# Dedicated public repository: only these files belong here.
+/*
+!/.gitignore
+!/README.md
+!/.github/
+!/.github/workflows/
+!/.github/workflows/pages.yml
+!/scripts/
+!/scripts/validate_pages.py
+!/deploy/
+/deploy/*
+!/deploy/pages/
+**/.env*
+**/__pycache__/
+**/.DS_Store
+**/runs/
+**/storage/
+**/sessions/
+**/role_cards/
